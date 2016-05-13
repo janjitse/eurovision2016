@@ -1,10 +1,10 @@
 from bs4 import BeautifulSoup
 import re
 
-fh = open(test_file,"r")
-test_html = fh.read()
-test_soup = BeautifulSoup(test_html)
-tags = test_soup.findAll("a",{"class": "youtube-watch"})
+#fh = open(test_file,"r")
+#test_html = fh.read()
+#test_soup = BeautifulSoup(test_html)
+#tags = test_soup.findAll("a",{"class": "youtube-watch"})
 
 def print_video_ids(input_file):
     html = open(input_file,"r")
