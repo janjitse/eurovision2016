@@ -1,0 +1,827 @@
+Draw,Year,Country,Artist,Male singer,Female Singer,Duo,Band,Experienced artist,Song,Language,Final,Host,Rank,Score,Countries Voting,Countries competing,Date of contest,Official video,Videocounts,Total Videocounts for round
+1,1998,Croatia,Danijela,,1,,,1,"""Neka mi ne svane""",Croatian,1,,5,131,25,25,,,,
+2,1998,Greece,Thalassa,1,,,,,"""Mia krifi evesthisia"" (??? ???≠? ??????????)",Greek,1,,20,12,25,25,,,,
+3,1998,France,Marie Line,,1,,,,"""O? aller""",French,1,,24,3,25,25,,,,
+4,1998,Spain,Mikel Herzog,1,,,,1,"""?Qu? voy a hacer sin ti?""",Spanish,1,,16,21,25,25,,,,
+5,1998,Switzerland,Gunvor,,1,,,,"""Lass ihn""",German,1,,25,0,25,25,,,,
+6,1998,Slovakia,Katar?na Hasprovò,,1,,,,"""Modlitba""",Slovak,1,,21,8,25,25,,,,
+7,1998,Poland,Sixteen,,,,1,,"""To takie proste""",Polish,1,,17,19,25,25,,,,
+8,1998,Israel,Dana International,,1,,,1,"""Diva""?(?????)",Hebrew,1,,1,172,25,25,,,,
+9,1998,Germany,Guildo Horn,1,,,,1,"""Guildo hat euch lieb!""",German,1,,7,86,25,25,,,,
+10,1998,Malta,Chiara,,1,,,,"""The One That I Love""",English,1,,3,165,25,25,,,,
+11,1998,Hungary,Charlie,1,,,,1,"""A holnap mòr nem lesz szomor?""",Hungarian,1,,23,4,25,25,,,,
+12,1998,Slovenia,Vili Resnik,1,,,,1,"""Naj bogovi sli?ijo""",Slovene,1,,18,17,25,25,,,,
+13,1998,Ireland,Dawn Martin,,1,,,,"""Is Always Over Now?""",English,1,,9,64,25,25,,,,
+14,1998,Portugal,Alma Lusa,,,,1,,"""Se eu te pudesse abra?ar""",Portuguese,1,,12,36,25,25,,,,
+15,1998,Romania,M?lina Olinescu,,1,,,,"""Eu cred""",Romanian,1,,22,6,25,25,,,,
+16,1998,United Kingdom,Imaani,,1,,,,"""Where Are You?""",English,1,,2,166,25,25,,,,
+17,1998,Cyprus,Michael Hajiyanni,1,,,,1,"""Genesis"" (ü??????)",Greek,1,,11,37,25,25,,,,
+18,1998,Netherlands,Edsilia,,1,,,1,"""Hemel en aarde""",Dutch,1,,4,150,25,25,,,,
+19,1998,Sweden,Jill Johnson,,1,,,1,"""K?rleken ?r""",Swedish,1,,10,53,25,25,,,,
+20,1998,Belgium,M?lanie Cohl,,1,,,,"""Dis oui""",French,1,,6,122,25,25,,,,
+21,1998,Finland,Edea,,,,1,,"""Aava""",Finnish,1,,15,22,25,25,,,,
+22,1998,Norway,Lars Fredriksen,1,,,,,"""Alltid sommer""",Norwegian,1,,8,79,25,25,,,,
+23,1998,Estonia,Koit Toome,1,,,,1,"""Mere lapsed""",Estonian,1,,12,36,25,25,,,,
+24,1998,Turkey,TÅzmen,1,,,,1,"""Unutamazs?n""",Turkish,1,,14,25,25,25,,,,
+25,1998,Macedonia,Vlado Janevski,1,,,,1,"""Ne zori, zoro"" (?? ????, ????)",Macedonian,1,,19,16,25,25,,,,
+1,1999,Lithuania,Aist?,,1,,,1,"""Strazdas""",Samogitian,1,,20,13,23,23,,,,
+2,1999,Belgium,Vanessa Chinitor,,1,,,1,"""Like the Wind""",English,1,,12,38,23,23,,,,
+3,1999,Spain,Lydia,,1,,,1,"""No quiero escuchar""",Spanish,1,,23,1,23,23,,,,
+4,1999,Croatia,Doris Dragovi?,,1,,,1,"""Marija Magdalena""",Croatian,1,,4,118,23,23,,,,
+5,1999,United Kingdom,Precious,,,,1,,"""Say It Again""",English,1,,12,38,23,23,,,,
+6,1999,Slovenia,Darja ?vajger,,1,,,1,"""For a Thousand Years""",English,1,,11,50,23,23,,,,
+7,1999,Turkey,Tu?ba ?nal?&?Grup Mistik,,1,,1,,"""D?n Art?k""",Turkish,1,,16,21,23,23,,,,
+8,1999,Norway,Stig Van Eijk,1,,,,,"""Living My Life Without You""",English,1,,14,35,23,23,,,,
+9,1999,Denmark,Trine Jepsen?&?Michael Teschl,1,1,1,,,"""This Time I Mean It""",English,1,,8,71,23,23,,,,
+10,1999,France,Nayah,,1,,,1,"""Je veux donner ma voix""",French,1,,19,14,23,23,,,,
+11,1999,Netherlands,Marlayne,,1,,,,"""One Good Reason""",English,1,,8,71,23,23,,,,
+12,1999,Poland,Mietek Szcze?niak,1,,,,,"""Przytul mnie mocno""",Polish,1,,18,17,23,23,,,,
+13,1999,Iceland,Selma,,1,,,,"""All Out of Luck""",English,1,,2,146,23,23,,,,
+14,1999,Cyprus,Marlain,,1,,,,"""Tha 'ne erotas"" (?? '??? ??????)",Greek,1,,22,2,23,23,,,,
+15,1999,Sweden,Charlotte Nilsson,,1,,,1,"""Take Me to Your Heaven""",English,1,,1,163,23,23,,,,
+16,1999,Portugal,Rui Bandeira,1,,,,,"""Como tudo come?ou""",Portuguese,1,,21,12,23,23,,,,
+17,1999,Ireland,The Mullans,,,,1,,"""When You Need Me""",English,1,,17,18,23,23,,,,
+18,1999,Austria,Bobbie Singer,,1,,,,"""Reflection""",English,1,,10,65,23,23,,,,
+19,1999,Israel,Eden,,,,1,,"""Yom Huledet (Happy Birthday)""","English,?Hebrew",1,,5,93,23,23,,,,
+20,1999,Malta,Times Three,,,,1,,"""Believe 'n Peace""",English,1,,15,32,23,23,,,,
+21,1999,Germany,SÅrpriz,,,,1,,"""Reise nach Jerusalem ?KudÅs'e seyahat""","German,?Turkish,English,?Hebrew",1,,3,140,23,23,,,,
+22,1999,Bosnia and Herzegovina,Dino?&?B?atrice,1,1,1,,1,"""Putnici""","Bosnian,?French",1,,7,86,23,23,,,,
+23,1999,Estonia,Evelin Samuel?&?Camille,,1,1,,1,"""Diamond of Night""",English,1,,6,90,23,23,,,,
+1,2000,Israel,PingPong,,,,1,,"""Be Happy""","Hebrew,?English",1,,22,7,24,24,,,,
+2,2000,Netherlands,Linda Wagenmakers,,1,,,,"""No Goodbyes""",English,1,,13,40,24,24,,,,
+3,2000,United Kingdom,Nicki French,,1,,,1,"""Don't Play That Song Again""",English,1,,16,28,24,24,,,,
+4,2000,Estonia,Ines,,1,,,,"""Once in a Lifetime""",English,1,,4,98,24,24,,,,
+5,2000,France,Sofia Mestari,,1,,,,"""On aura le ciel""",French,1,,23,5,24,24,,,,
+6,2000,Romania,Taxi,,,,1,,"""The Moon""",English,1,,17,25,24,24,,,,
+7,2000,Malta,Claudette Pace,,1,,,,"""Desire""","English,?Maltese",1,,8,73,24,24,,,,
+8,2000,Norway,Charmed,,,,1,,"""My Heart Goes Boom""",English,1,,11,57,24,24,,,,
+9,2000,Russia,Alsou,,1,,,,"""Solo""",English,1,,2,155,24,24,,,,
+10,2000,Belgium,Nathalie Sorce,,1,,,,"""Envie de vivre""",French,1,,24,2,24,24,,,,
+11,2000,Cyprus,Voice,1,1,1,,,"""Nomiza"" (??????)","Greek,?Italian",1,,21,8,24,24,,,,
+12,2000,Iceland,August & Telma,1,1,1,,,"""Tell Me!""",English,1,,12,45,24,24,,,,
+13,2000,Spain,Seraf?n Zubiri,1,,,,1,"""Colgado de un sue?o""",Spanish,1,,18,18,24,24,,,,
+14,2000,Denmark,Olsen Brothers,1,,1,,1,"""Fly on the Wings of Love""",English,1,,1,195,24,24,,,,
+15,2000,Germany,Stefan Raab,1,,,,1,"""Wadde hadde dudde da?""","German, English",1,,5,96,24,24,,,,
+16,2000,Switzerland,Jane Bogaert,,1,,,1,"""La vita cos'??""",Italian,1,,20,14,24,24,,,,
+17,2000,Croatia,Goran Karan,1,,,,1,"""Kad zaspu an?eli""",Croatian,1,,9,70,24,24,,,,
+18,2000,Sweden,Roger Pontare,1,,,,1,"""When Spirits Are Calling My Name""",English,1,,7,88,24,24,,,,
+19,2000,Macedonia,XXL,,,,1,,"""100% te ljubam"" (100% ?? ?????)","Macedonian, English",1,,15,29,24,24,,,,
+20,2000,Finland,Nina èstr?m,,1,,,1,"""A Little Bit""",English,1,,18,18,24,24,,,,
+21,2000,Latvia,Brainstorm,,,,1,1,"""My Star""",English,1,,3,136,24,24,,,,
+22,2000,Turkey,P?nar Ayhan?&?The SOS,,1,,1,1,"""Yorgunum Anla""","Turkish, English",1,,10,59,24,24,,,,
+23,2000,Ireland,Eamonn Toal,,1,,,,"""Millennium of Love""",English,1,,6,92,24,24,,,,
+24,2000,Austria,The Rounder Girls,,1,,1,,"""All To You""",English,1,,14,34,24,24,,,,
+1,2001,Netherlands,Michelle Courtens,,1,,,,"""Out On My Own""",English,1,,18,16,23,23,,,,
+2,2001,Iceland,Two Tricky,1,,1,,,"""Angel""",English,1,,22,3,23,23,,,,
+3,2001,Bosnia and Herzegovina,Nino Pr?e?,1,,,,,"""Hano""","Bosnian,?English",1,,14,29,23,23,,,,
+4,2001,Norway,Haldor L?greid,1,,,,,"""On My Own""",English,1,,22,3,23,23,,,,
+5,2001,Israel,Tal Sondak,1,,,,1,"""En Davar"" (??? ???)",Hebrew,1,,16,25,23,23,,,,
+6,2001,Russia,Mumiy Troll,,,,1,1,"""Lady Alpine Blue""",English,1,,12,37,23,23,,,,
+7,2001,Sweden,Friends,,,,1,1,"""Listen To Your Heartbeat""",English,1,,5,100,23,23,,,,
+8,2001,Lithuania,SKAMP,,,,1,1,"""You Got Style""","English,?Lithuanian",1,,13,35,23,23,,,,
+9,2001,Latvia,Arnis Mednis,1,,,,,"""Too Much""",English,1,,18,16,23,23,,,,
+10,2001,Croatia,Vanna,,1,,,1,"""Strings of My Heart""",English,1,,10,42,23,23,,,,
+11,2001,Portugal,MTM,,1,,1,,"""S? sei ser feliz assim""",Portuguese,1,,17,18,23,23,,,,
+12,2001,Ireland,Gary O'Shaughnessy,1,,,,1,"""Without Your Love""",English,1,,21,6,23,23,,,,
+13,2001,Spain,David Civera,1,,,,1,"""Dile que la quiero""",Spanish,1,,6,76,23,23,,,,
+14,2001,France,Natasha St-Pier,,1,,,1,"""Je n'ai que mon ?me""","French,?English",1,,4,142,23,23,,,,
+15,2001,Turkey,Sedat YÅce,1,,,,1,"""Sevgiliye Son""","Turkish,?English",1,,11,41,23,23,,,,
+16,2001,United Kingdom,Lindsay Dracass,,1,,,,"""No Dream Impossible""",English,1,,15,28,23,23,,,,
+17,2001,Slovenia,Nu?a Derenda,,1,,,1,"""Energy""",English,1,,7,70,23,23,,,,
+18,2001,Poland,Piasek,1,,,,,"""2 Long""",English,1,,20,11,23,23,,,,
+19,2001,Germany,Michelle,,1,,,1,"""Wer Liebe lebt""","German,?English",1,,8,66,23,23,,,,
+20,2001,Estonia,"Tanel Padar,?Dave Benton,?2XL",1,,,1,1,"""Everybody""",English,1,,1,198,23,23,,,,
+21,2001,Malta,Fabrizio Faniello,1,,,,1,"""Another Summer Night""",English,1,,9,48,23,23,,,,
+22,2001,Greece,Antique,1,1,1,,,"""Die for You""","English,?Greek",1,,3,147,23,23,,,,
+23,2001,Denmark,Rollo & King,1,,1,,,"""Never Ever Let You Go""",English,1,,2,177,23,23,,,,
+1,2002,Cyprus,One,,,,1,1,"""Gimme""",English,1,,6,85,24,24,,,,
+2,2002,United Kingdom,Jessica Garlick,,1,,,,"""Come Back""",English,1,,3,111,24,24,,,,
+3,2002,Austria,Manuel Ortega,1,,,,1,"""Say a Word""",English,1,,18,26,24,24,,,,
+4,2002,Greece,Michalis Rakintzis,1,,,,1,"""S.A.G.A.P.O.""",English,1,,17,27,24,24,,,,
+5,2002,Spain,Rosa,,1,,,,"""Europe's Living a Celebration""","Spanish,?English",1,,7,81,24,24,,,,
+6,2002,Croatia,Vesna Pisarovi?,,1,,,1,"""Everything I Want""",English,1,,11,44,24,24,,,,
+7,2002,Russia,Prime Minister,,,,1,1,"""Northern Girl""",English,1,,10,55,24,24,,,,
+8,2002,Estonia,Sahlene,,1,,,1,"""Runaway""",English,1,,3,111,24,24,,,,
+9,2002,Macedonia,Karolina Go?eva,,1,,,1,"""Od nas zavisi"" (?? ??? ??????)",Macedonian,1,,19,25,24,24,,,,
+10,2002,Israel,Sarit Hadad,,1,,,1,"""Nadlik Beyakhad Ner (Light a Candle)""
+(????? ???? ??)","Hebrew,?English",1,,12,37,24,24,,,,
+11,2002,Switzerland,Francine Jordi,,1,,,1,"""Dans le jardin de mon ?me""",French,1,,22,15,24,24,,,,
+12,2002,Sweden,Afro-dite,,,,1,,"""Never Let It Go""",English,1,,8,72,24,24,,,,
+13,2002,Finland,Laura Voutilainen,,1,,,1,"""Addicted To You""",English,1,,20,24,24,24,,,,
+14,2002,Denmark,Malene,,1,,,,"""Tell Me Who You Are""",English,1,,24,7,24,24,,,,
+15,2002,Bosnia and Herzegovina,Maja Tati?,,1,,,1,"""Na jastuku za dvoje"" (?? ??????? ?? ?????)","Serbian,?English",1,,13,33,24,24,,,,
+16,2002,Belgium,Sergio & The Ladies,1,,,1,1,"""Sister""",English,1,,13,33,24,24,,,,
+17,2002,France,Sandrine Fran?ois,,1,,,,"""Il faut du temps (je me battrai pour ?a)""",French,1,,5,104,24,24,,,,
+18,2002,Germany,Corinna May,,1,,,1,"""I Can't Live Without Music""",English,1,,21,17,24,24,,,,
+19,2002,Turkey,Buket Bengisu& Group Safir,,1,,1,,"""Leylaklar Soldu Kalbinde""","Turkish,?English",1,,16,29,24,24,,,,
+20,2002,Malta,Ira Losco,,1,,,,"""7th Wonder""",English,1,,2,164,24,24,,,,
+21,2002,Romania,"Monica Anghel
+&?Marcel Pavel",1,1,1,,1,"""Tell Me Why""",English,1,,9,71,24,24,,,,
+22,2002,Slovenia,Sestre,,,,1,1,"""Samo ljubezen""",Slovene,1,,13,33,24,24,,,,
+23,2002,Latvia,Marie N,,1,,,1,"""I Wanna""",English,1,,1,176,24,24,,,,
+24,2002,Lithuania,Aivaras,1,,,,1,"""Happy You""",English,1,,23,12,24,24,,,,
+1,2003,Iceland,Birgitta,,1,,,1,"""Open Your Heart""",English,1,,8,81,26,26,,,,
+2,2003,Austria,Alf Poier,1,,,,1,"""Weil der Mensch z?hlt""",German,1,,6,101,26,26,,,,
+3,2003,Ireland,Mickey Harte,1,,,,,"""We've Got the World""",English,1,,11,53,26,26,,,,
+4,2003,Turkey,Sertab Erener,,1,,,1,"""Everyway That I Can""",English,1,,1,167,26,26,,,,
+5,2003,Malta,Lynn Chircop,,1,,,,"""To Dream Again""",English,1,,25,4,26,26,,,,
+6,2003,Bosnia and Herzegovina,Mija Martina,,1,,,,"""Ne brini""","Croatian, English",1,,16,27,26,26,,,,
+7,2003,Portugal,Rita Guerra,,1,,,1,"""Deixa-me sonhar""","Portuguese, English",1,,22,13,26,26,,,,
+8,2003,Croatia,Claudia Beni,,1,,,1,"""Vi?e nisam tvoja""","Croatian, English",1,,15,29,26,26,,,,
+9,2003,Cyprus,Stelios Constantas,1,,,,1,"""Feeling Alive""",English,1,,20,15,26,26,,,,
+10,2003,Germany,Lou,,1,,,1,"""Let's Get Happy""",English,1,,11,53,26,26,,,,
+11,2003,Russia,t.A.T.u.,,1,1,,1,"""Ne ver'?, ne boisia"" (?? ????, ?? ?????)",Russian,1,,3,164,26,26,,,,
+12,2003,Spain,Beth,,1,,,,"""Dime""",Spanish,1,,8,81,26,26,,,,
+13,2003,Israel,Lior Narkis,1,,,,1,"""Words for Love""",Hebrew,1,,19,17,26,26,,,,
+14,2003,Netherlands,Esther Hart,,1,,,,"""One More Night""",English,1,,13,45,26,26,,,,
+15,2003,United Kingdom,Jemini,1,1,1,,,"""Cry Baby""",English,1,,26,0,26,26,,,,
+16,2003,Ukraine,Olexandr,1,,,,1,"""Hasta la Vista""",English,1,,14,30,26,26,,,,
+17,2003,Greece,Mando,,1,,,1,"""Never Let You Go""",English,1,,17,25,26,26,,,,
+18,2003,Norway,Jostein Hasselg?rd,1,,,,,"""I'm Not Afraid to Move On""",English,1,,4,123,26,26,,,,
+19,2003,France,Louisa Ba?leche,,1,,,,"""Monts et merveilles""",French,1,,18,19,26,26,,,,
+20,2003,Poland,Ich Troje,,,,1,1,"""Keine Grenzen ? ?adnych granic""","German,?Polish, Russian",1,,7,90,26,26,,,,
+21,2003,Latvia,F.L.Y.,,,,1,,"""Hello From Mars""",English,1,,24,5,26,26,,,,
+22,2003,Belgium,Urban Trad,,,,1,1,"""Sanomi""",Imaginary,1,,2,165,26,26,,,,
+23,2003,Estonia,Ruffus,,,,1,1,"""Eighties Coming Back""",English,1,,21,14,26,26,,,,
+24,2003,Romania,Nicola,,1,,,1,"""Don't Break My Heart""",English,1,,10,73,26,26,,,,
+25,2003,Sweden,Fame,1,1,1,,,"""Give Me Your Love""",English,1,,5,107,26,26,,,,
+26,2003,Slovenia,Karmen,,1,,,1,"""Nanana""",English,1,,23,7,26,26,,,,
+1,2004,Spain,Ram?n,1,,,,,"""Para llenarme de ti""",Spanish,1,,10,87,36,24,,,,
+2,2004,Austria,Tie Break,1,,,1,,"""Du bist""",German,1,,21,9,36,24,,,,
+3,2004,Norway,Knut Anders S?rum,1,,,,,"""High""",English,1,,24,3,36,24,,,,
+4,2004,France,Jonatan Cerrada,1,,,,,"""? chaque pas""","French, Spanish",1,,15,40,36,24,,,,
+5,2004,Serbia and Montenegro,?eljko Joksimovi??& Ad-Hoc Orchestra,1,,,,1,"""Lane moje"" (???? ????)",Serbian,1,,2,263,36,24,,,,
+6,2004,Malta,Julie and Ludwig,1,1,1,,,"""On Again... Off Again""",English,1,,12,50,36,24,,,,
+7,2004,Netherlands,Re-Union,1,,1,,,"""Without You""",English,1,,20,11,36,24,,,,
+8,2004,Germany,Max,1,,,,,"""Can't Wait Until Tonight""","English,?Turkish",1,,8,93,36,24,,,,
+9,2004,Albania,Anjeza Shahini,,1,,,,"""The Image of You""",English,1,,7,106,36,24,,,,
+10,2004,Ukraine,Ruslana,,1,,,1,"""Wild Dances""","English,?Ukrainian",1,,1,280,36,24,,,,
+11,2004,Croatia,Ivan Mikuli?,1,,,,,"""You Are the Only One""",English,1,,12,50,36,24,,,,
+12,2004,Bosnia and Herzegovina,Deen,1,,,,1,"""In the Disco""",English,1,,9,91,36,24,,,,
+13,2004,Belgium,Xandee,,1,,,1,"""1 Life""",English,1,,22,7,36,24,,,,
+14,2004,Russia,Julia Savicheva,,1,,,,"""Believe Me""",English,1,,11,67,36,24,,,,
+15,2004,Macedonia,To?e Proeski,1,,,,1,"""Life""",English,1,,14,47,36,24,,,,
+16,2004,Greece,Sakis Rouvas,1,,,,1,"""Shake It""",English,1,,3,252,36,24,,,,
+17,2004,Iceland,J?nsi,1,,,,1,"""Heaven""",English,1,,19,16,36,24,,,,
+18,2004,Ireland,Chris Doran,1,,,,,"""If My World Stopped Turning""",English,1,,22,7,36,24,,,,
+19,2004,Poland,Blue Caf?,,,,1,1,"""Love Song""","English, Spanish",1,,17,27,36,24,,,,
+20,2004,United Kingdom,James Fox,1,,,,1,"""Hold On to Our Love""",English,1,,16,29,36,24,,,,
+21,2004,Cyprus,Lisa Andreas,,1,,,,"""Stronger Every Minute""",English,1,,5,170,36,24,,,,
+22,2004,Turkey,Athena,,,,1,1,"""For Real""",English,1,,4,195,36,24,,,,
+23,2004,Romania,Sanda,,1,,,1,"""I Admit""",English,1,,18,18,36,24,,,,
+24,2004,Sweden,Lena Philipsson,,1,,,1,"""It Hurts""",English,1,,5,170,36,24,,,,
+1,2004,Finland,Jari Sillanp??,1,,,,1,"""Takes 2 to Tango""",English,,,14,51,33,22,,,,
+2,2004,Belarus,Aleksandra and Konstantin,1,1,1,,,"""My Galileo""",English,,,19,10,33,22,,,,
+3,2004,Switzerland,Piero Esteriore and the MusicStars,1,,,,,"""Celebrate""",English,,,22,0,33,22,,,,
+4,2004,Latvia,Fomins and Kleins,1,,1,,1,"""Dziesma par laimi""",Latvian,,,17,23,33,22,,,,
+5,2004,Israel,David D'Or,1,,,,1,"""Leha'amin"" (??????)","English,?Hebrew",,,12,57,33,22,,,,
+6,2004,Andorra,Marta Roure,,1,,,1,"""Jugarem a estimar-nos""",Catalan,,,18,12,33,22,,,,
+7,2004,Portugal,Sofia Vit?ria,,1,,,,"""Foi magia""",Portuguese,,,15,38,33,22,,,,
+8,2004,Malta,Julie and Ludwig,1,1,1,,,"""On Again... Off Again""",English,,,8,74,33,22,,,,
+9,2004,Monaco,Maryon,,1,,,,"""Notre plan?te""",French,,,19,10,33,22,,,,
+10,2004,Greece,Sakis Rouvas,1,,,,1,"""Shake It""",English,,,3,238,33,22,,,,
+11,2004,Ukraine,Ruslana,,1,,,1,"""Wild Dances""","English,?Ukrainian",,,2,256,33,22,,,,
+12,2004,Lithuania,Linas and Simona,1,1,1,,1,"""What's Happened to Your Love?""",English,,,16,26,33,22,,,,
+13,2004,Albania,Anjeza Shahini,,1,,,,"""The Image of You""",English,,,4,167,33,22,,,,
+14,2004,Cyprus,Lisa Andreas,,1,,,,"""Stronger Every Minute""",English,,,5,149,33,22,,,,
+15,2004,Macedonia,To?e Proeski,1,,,,1,"""Life""",English,,,10,71,33,22,,,,
+16,2004,Slovenia,Platin,1,1,1,,,"""Stay Forever""",English,,,21,5,33,22,,,,
+17,2004,Estonia,Neiok?s?,,1,,1,,"""Tii""",V?ro,,,11,57,33,22,,,,
+18,2004,Croatia,Ivan Mikuli?,1,,,,,"""You Are the Only One""",English,,,9,72,33,22,,,,
+19,2004,Denmark,Tomas Thordarsson,1,,,,,"""Shame on You""",English,,,13,56,33,22,,,,
+20,2004,Serbia and Montenegro,?eljko Joksimovi??& Ad-Hoc Orchestra,1,,,,1,"""Lane moje"" (???? ????)",Serbian,,,1,263,33,22,,,,
+21,2004,Bosnia and Herzegovina,Deen,1,,,,1,"""In the Disco""",English,,,7,133,33,22,,,,
+22,2004,Netherlands,Re-Union,1,,1,,,"""Without You""",English,,,6,146,33,22,,,,
+1,2005,Hungary,NOX,,,,1,1,"""Forogj, vilòg!""",Hungarian,1,,12,97,39,24,,,,
+2,2005,United Kingdom,Javine,,1,,,1,"""Touch My Fire""",English,1,,22,18,39,24,,,,
+3,2005,Malta,Chiara,,1,,,1,"""Angel""",English,1,,2,192,39,24,,,,
+4,2005,Romania,Lumini?a Anghel?and Sistem,,1,,,1,"""Let Me Try""",English,1,,3,158,39,24,,,,
+5,2005,Norway,Wig Wam,,,,1,1,"""In My Dreams""",English,1,,9,125,39,24,,,,
+6,2005,Turkey,GÅlseren,,1,,,1,"""Rimi Rimi Ley""",Turkish,1,,13,92,39,24,,,,
+7,2005,Moldova,Zdob ?i Zdub,,,,1,1,"""Boonika bate toba""","English,?Romanian",1,,6,148,39,24,,,,
+8,2005,Albania,Ledina ?elo,,1,,,1,"""Tomorrow I Go""",English,1,,16,53,39,24,,,,
+9,2005,Cyprus,Constantinos Christoforou,1,,,,1,"""Ela Ela""",English,1,,18,46,39,24,,,,
+10,2005,Spain,Son de Sol,,1,,1,1,"""Brujer?a""",Spanish,1,,21,28,39,24,,,,
+11,2005,Israel,Shiri Maimon,,1,,,1,"""Hasheket Shenish'ar"" (???? ?????)","English,?Hebrew",1,,4,154,39,24,,,,
+12,2005,Serbia and Montenegro,No Name,,,,1,,"""Zauvijek moja"" (???????? ????)",Montenegrin,1,,7,137,39,24,,,,
+13,2005,Denmark,Jakob Sveistrup,1,,,,1,"""Talking to You""",English,1,,9,125,39,24,,,,
+14,2005,Sweden,Martin Stenmarck,1,,,,1,"""Las Vegas""",English,1,,19,30,39,24,,,,
+15,2005,Macedonia,Martin Vu?i?,1,,,,1,"""Make My Day""",English,1,,17,52,39,24,,,,
+16,2005,Ukraine,GreenJolly,,,,1,1,"""Razom nas bahato"" (????? ??? ??????)","Ukrainian, English",1,,19,30,39,24,,,,
+17,2005,Germany,Gracia,,1,,,1,"""Run and Hide""",English,1,,24,4,39,24,,,,
+18,2005,Croatia,Boris Novkovi??feat.?Lado Members,1,,,,1,"""Vukovi umiru sami""",Croatian,1,,11,115,39,24,,,,
+19,2005,Greece,Helena Paparizou,,1,,,1,"""My Number One""",English,1,,1,230,39,24,,,,
+20,2005,Russia,Natalia Podolskaya,,1,,,1,"""Nobody Hurt No One""",English,1,,15,57,39,24,,,,
+21,2005,Bosnia and Herzegovina,Feminnem,,1,,1,,"""Call Me""",English,1,,14,79,39,24,,,,
+22,2005,Switzerland,Vanilla Ninja,,1,,1,1,"""Cool Vibes""",English,1,,8,128,39,24,,,,
+23,2005,Latvia,Walters and Kazha,1,,1,,,"""The War Is Not Over""",English,1,,5,153,39,24,,,,
+24,2005,France,Ortal,,1,,,,"""Chacun pense ? soi""",French,1,,23,11,39,24,,,,
+1,2005,Austria,Global.Kryner,,,,1,1,"""Y as?""","English,?Spanish",,,21,30,39,25,,,,
+2,2005,Lithuania,Laura and The Lovers,,,,1,,"""Little by Little""",English,,,25,17,39,25,,,,
+3,2005,Portugal,2B,1,1,1,,,"""Amar""","English,?Portuguese",,,17,51,39,25,,,,
+4,2005,Moldova,Zdob ?i Zdub,,,,1,1,"""Boonika bate toba""","English,?Romanian",,,2,207,39,25,,,,
+5,2005,Latvia,Valters and Ka?a,1,,1,,,"""The War Is Not Over""",English,,,10,85,39,25,,,,
+6,2005,Monaco,Lise Darly,,1,,,1,"""Tout de moi""",French,,,24,22,39,25,,,,
+7,2005,Israel,Shiri Maimon,,1,,,1,"""Hasheket Shenish'ar"" (???? ?????)","English,?Hebrew",,,7,158,39,25,,,,
+8,2005,Belarus,Angelica Agurbash,,1,,,1,"""Love me Tonight""",English,,,13,67,39,25,,,,
+9,2005,Netherlands,Glennis Grace,,1,,,1,"""My Impossible Dream""",English,,,14,53,39,25,,,,
+10,2005,Iceland,Selma,,1,,,1,"""If I Had Your Love""",English,,,16,52,39,25,,,,
+11,2005,Belgium,Nuno Resende,1,,,,1,"""Le grand soir""",French,,,22,29,39,25,,,,
+12,2005,Estonia,Suntribe,,1,,1,1,"""Let's Get Loud""",English,,,20,31,39,25,,,,
+13,2005,Norway,Wig Wam,,,,1,1,"""In My Dreams""",English,,,6,164,39,25,,,,
+14,2005,Romania,Lumini?a Anghel?and Sistem,1,,,1,,"""Let Me Try""",English,,,1,235,39,25,,,,
+15,2005,Hungary,NOX,,,,1,1,"""Forogj, vilòg!""",Hungarian,,,5,167,39,25,,,,
+16,2005,Finland,Geir R?nning,1,,,,1,"""Why?""",English,,,18,50,39,25,,,,
+17,2005,Macedonia,Martin Vu?i?,1,,,,1,"""Make My Day""",English,,,9,97,39,25,,,,
+18,2005,Andorra,Marian van de Wal,,1,,,,"""La Mirada Interior""",Catalan,,,23,27,39,25,,,,
+19,2005,Switzerland,Vanilla Ninja,,1,,1,1,"""Cool Vibes""",English,,,8,114,39,25,,,,
+20,2005,Croatia,Boris Novkovi??feat.?Lado Members,1,,,,1,"""Vukovi umiru sami""",Croatian,,,4,169,39,25,,,,
+21,2005,Bulgaria,Kaffe,,,,1,1,"""Lorraine""",English,,,19,49,39,25,,,,
+22,2005,Ireland,Donna and Joe,1,1,1,,,"""Love?""",English,,,14,53,39,25,,,,
+23,2005,Slovenia,Omar Naber,1,,,,,"""Stop""",Slovene,,,12,69,39,25,,,,
+24,2005,Denmark,Jakob Sveistrup,1,,,,1,"""Talking to You""",English,,,3,185,39,25,,,,
+25,2005,Poland,Ivan and Delfin,1,,,,,"""Czarna dziewczyna""","Polish,?Russian",,,11,81,39,25,,,,
+1,2006,Switzerland,six4one,,,,1,,"""If We All Give a Little""",English,1,,16,30,38,24,,,,
+2,2006,Moldova,Arsenium?feat.?Natalia Gordienko,1,1,1,,1,"""Loca""","English,?Spanish",1,,20,22,38,24,,,,
+3,2006,Israel,Eddie Butler,1,,,,1,"""Together We Are One""","English,?Hebrew",1,,23,4,38,24,,,,
+4,2006,Latvia,Vocal Group Cosmos,,,,1,1,"""I Hear Your Heart""",English,1,,17,30,38,24,,,,
+5,2006,Norway,Christine Guldbrandsen,1,,,,1,"""Alvedansen""",Norwegian,1,,14,36,38,24,,,,
+6,2006,Spain,Las Ketchup,,1,,1,1,"""Un Blodymary""",Spanish,1,,21,18,38,24,,,,
+7,2006,Malta,Fabrizio Faniello,1,,,,1,"""I Do""",English,1,,24,1,38,24,,,,
+8,2006,Germany,Texas Lightning,,,,1,1,"""No No Never""",English,1,,14,36,38,24,,,,
+9,2006,Denmark,Sidsel Ben Semmane,,1,,,,"""Twist of Love""",English,1,,18,26,38,24,,,,
+10,2006,Russia,Dima Bilan,1,,,,1,"""Never Let You Go""",English,1,,2,248,38,24,,,,
+11,2006,Macedonia,Elena Risteska,,1,,,1,"""Ninanajna"" (?????????)","English,?Macedonian",1,,12,56,38,24,,,,
+12,2006,Romania,Mihai Tr?istariu,1,,,,1,"""Torner?""","English,?Italian",1,,4,172,38,24,,,,
+13,2006,Bosnia and Herzegovina,Hari Mata Hari,,,,1,1,"""Lejla""",Bosnian,1,,3,229,38,24,,,,
+14,2006,Lithuania,LT United,,,,1,,"""We Are the Winners""","English,?French",1,,6,162,38,24,,,,
+15,2006,United Kingdom,Daz Sampson,1,,,,1,"""Teenage Life""",English,1,,19,25,38,24,,,,
+16,2006,Greece,Anna Vissi,,1,,,1,"""Everything""",English,1,,9,128,38,24,,,,
+17,2006,Finland,Lordi,,,,1,1,"""Hard Rock Hallelujah""",English,1,,1,292,38,24,,,,
+18,2006,Ukraine,Tina Karol,,1,,,,"""Show Me Your Love""",English,1,,7,145,38,24,,,,
+19,2006,France,Virginie Pouchain,,1,,,,"""Il ?tait temps""",French,1,,22,5,38,24,,,,
+20,2006,Croatia,Severina,,1,,,1,"""Moja ?tikla""",Croatian,1,,12,56,38,24,,,,
+21,2006,Ireland,Brian Kennedy,1,,,,1,"""Every Song Is a Cry for Love""",English,1,,10,93,38,24,,,,
+22,2006,Sweden,Carola,,1,,,1,"""Invincible""",English,1,,5,170,38,24,,,,
+23,2006,Turkey,Sibel TÅzÅn,,1,,,1,"""SÅper Star""","English,?Turkish",1,,11,91,38,24,,,,
+24,2006,Armenia,Andr?,1,,,,1,"""Without Your Love""",English,1,,8,129,38,24,,,,
+1,2006,Armenia,Andr?,1,,,,1,"""Without Your Love""",English,,,6,150,38,23,,,,
+2,2006,Bulgaria,Mariana Popova,,1,,,1,"""Let Me Cry""",English,,,17,36,38,23,,,,
+3,2006,Slovenia,An?ej De?an,1,,,,,"""Mr Nobody""",English,,,16,49,38,23,,,,
+4,2006,Andorra,Jenny,,1,,,,"""Sense tu""",Catalan,,,23,8,38,23,,,,
+5,2006,Belarus,Polina Smolova,,1,,,1,"""Mum""",English,,,22,10,38,23,,,,
+6,2006,Albania,Luiz Ejlli,1,,,,1,"""Zjarr e ftoht?""",Albanian,,,14,58,38,23,,,,
+7,2006,Belgium,Kate Ryan,,1,,,1,"""Je t'adore""","English,?French",,,12,69,38,23,,,,
+8,2006,Ireland,Brian Kennedy,1,,,,1,"""Every Song Is a Cry for Love""",English,,,9,79,38,23,,,,
+9,2006,Cyprus,Annet Artani,,1,,,1,"""Why Angels Cry""",English,,,15,57,38,23,,,,
+10,2006,Monaco,S?verine Ferrer,,1,,,,"""La Coco-Dance""","French,?Tahitian",,,21,14,38,23,,,,
+11,2006,Macedonia,Elena Risteska,,1,,,1,"""Ninanajna"" (?????????)","English,?Macedonian",,,10,76,38,23,,,,
+12,2006,Poland,Ich Troje?feat.?Real McCoy,,,,1,1,"""Follow My Heart""","English,?Polish,?Spanish,?German,?Russian[4]",,,11,70,38,23,,,,
+13,2006,Russia,Dima Bilan,1,,,,1,"""Never Let You Go""",English,,,3,217,38,23,,,,
+14,2006,Turkey,Sibel TÅzÅn,,1,,,1,"""SÅper Star""","English,?Turkish",,,8,91,38,23,,,,
+15,2006,Ukraine,Tina Karol,,1,,,,"""Show Me Your Love""",English,,,7,146,38,23,,,,
+16,2006,Finland,Lordi,,,,1,1,"""Hard Rock Hallelujah""",English,,,1,292,38,23,,,,
+17,2006,Netherlands,Treble,,1,,1,1,"""Amambanda""","English,?Imaginary",,,20,22,38,23,,,,
+18,2006,Lithuania,LT United,,,,1,,"""We Are the Winners""","English,?French",,,5,163,38,23,,,,
+19,2006,Portugal,Nonstop,,1,,1,1,"""Coisas de nada""","English,?Portuguese",,,19,26,38,23,,,,
+20,2006,Sweden,Carola,,1,,,1,"""Invincible""",English,,,4,214,38,23,,,,
+21,2006,Estonia,Sandra Oxenryd,,1,,,,"""Through My Window""",English,,,18,28,38,23,,,,
+22,2006,Bosnia and Herzegovina,Hari Mata Hari,,,,1,1,"""Lejla""",Bosnian,,,2,267,38,23,,,,
+23,2006,Iceland,Silvia Night,,1,,,,"""Congratulations""",English,,,13,62,38,23,,,,
+1,2007,Bulgaria,Elitsa Todorova?and?Stoyan Yankoulov,1,1,1,,1,"""Water""",Bulgarian,,,6,146,42,28,,,,
+2,2007,Israel,Teapacks,,,,1,1,"""Push the Button""","English,?French,?Hebrew",,,24,17,42,28,,,,
+3,2007,Cyprus,Evridiki,,1,,,1,"""Comme ci, comme ?a""",French,,,15,65,42,28,,,,
+4,2007,Belarus,Koldun,1,,,,1,"""Work Your Magic""",English,,,4,176,42,28,,,,
+5,2007,Iceland,Eir?kur Hauksson,1,,,,1,"""Valentine Lost""",English,,,13,77,42,28,,,,
+6,2007,Georgia,Sopho,,1,,,,"""Visionary Dream""",English,,,8,123,42,28,,,,
+7,2007,Montenegro,Stevan Faddy,1,,,,1,"""'Ajde, kro?i""",Montenegrin,,,23,33,42,28,,,,
+8,2007,Switzerland,DJ Bobo,1,,,,1,"""Vampires Are Alive""",English,,,20,40,42,28,,,,
+9,2007,Moldova,Natalia Barbu,,1,,,1,"""Fight""",English,,,10,91,42,28,,,,
+10,2007,Netherlands,Edsilia Rombley,,1,,,1,"""On Top of the World""",English,,,21,38,42,28,,,,
+11,2007,Albania,Frederik Ndoci,1,,,,1,"""Hear My Plea""","English,?Albanian",,,17,49,42,28,,,,
+12,2007,Denmark,DQ,,1,,,,"""Drama Queen""",English,,,19,45,42,28,,,,
+13,2007,Croatia,Dragonfly?feat.?Dado Topi?,1,1,1,,,"""Vjerujem u ljubav""","Croatian,?English",,,16,54,42,28,,,,
+14,2007,Poland,The Jet Set,1,1,1,,1,"""Time To Party""",English,,,14,75,42,28,,,,
+15,2007,Serbia,Marija ?erifovi?,,1,,,1,"""Molitva"" (???????)",Serbian,,,1,298,42,28,,,,
+16,2007,Czech Republic,Kabòt,,,,1,1,"""Malò dòma""",Czech,,,28,1,42,28,,,,
+17,2007,Portugal,Sabrina,,1,,,1,"""Dan?a comigo""","Portuguese,?English,?Spanish,?French",,,11,88,42,28,,,,
+18,2007,Macedonia,Karolina,,1,,,1,"""Mojot svet"" (????? ????)","Macedonian,?English",,,9,97,42,28,,,,
+19,2007,Norway,Guri Schanke,,1,,,1,"""Ven a bailar conmigo""","English,?Spanish",,,18,48,42,28,,,,
+20,2007,Malta,Olivia Lewis,,1,,,1,"""Vertigo""",English,,,25,15,42,28,,,,
+21,2007,Andorra,Anonymous,,,,1,1,"""Salvem el m?n""","Catalan,?English",,,12,80,42,28,,,,
+22,2007,Hungary,Magdi R?zsa,,1,,,,"""Unsubstantial Blues""",English,,,2,224,42,28,,,,
+23,2007,Estonia,Gerli Padar,,1,,,1,"""Partners in Crime""",English,,,22,33,42,28,,,,
+24,2007,Belgium,The KMG's,,,,1,,"""Love Power""",English,,,26,14,42,28,,,,
+25,2007,Slovenia,Alenka Gotar,,1,,,1,"""Cvet z juga""",Slovene,,,7,140,42,28,,,,
+26,2007,Turkey,Kenan Do?ulu,1,,,,1,"""Shake It Up ?ekerim""",English,,,3,197,42,28,,,,
+27,2007,Austria,Eric Papilaya,1,,,,,"""Get a Life ? Get Alive""",English,,,27,4,42,28,,,,
+28,2007,Latvia,Bonaparti.lv,1,,,1,,"""Questa notte""",Italian,,,5,168,42,28,,,,
+1,2007,Bosnia and Herzegovina,Maria,,,,1,1,"""Rijeka bez imena"" (?????? ??? ?????)",Bosnian,1,,11,106,42,24,,,,
+2,2007,Spain,D'NASH,1,,,1,,"""I Love You Mi Vida""","Spanish,?English",1,,20,43,42,24,,,,
+3,2007,Belarus,Dmitry Koldun,1,,,,1,"""Work Your Magic""",English,1,,6,145,42,24,,,,
+4,2007,Ireland,Dervish,1,1,,1,1,"""They Can't Stop The Spring""",English,1,,24,5,42,24,,,,
+5,2007,Finland,Hanna,,1,,,,"""Leave Me Alone""",English,1,,17,53,42,24,,,,
+6,2007,Macedonia,Karolina,,1,,,1,"""Mojot svet"" (????? ????)","Macedonian,?English",1,,14,73,42,24,,,,
+7,2007,Slovenia,Alenka Gotar,,1,,,1,"""Cvet z juga""",Slovene,1,,15,66,42,24,,,,
+8,2007,Hungary,Magdi R?zsa,,1,,,,"""Unsubstantial Blues""",English,1,,9,128,42,24,,,,
+9,2007,Lithuania,4Fun,,,,1,1,"""Love or Leave""",English,1,,21,28,42,24,,,,
+10,2007,Greece,Sarbel,1,,,,1,"""Yassou Maria"" (ü??? ??? ?????)",English,1,,7,139,42,24,,,,
+11,2007,Georgia,Sopho,,1,,,,"""Visionary Dream""",English,1,,12,97,42,24,,,,
+12,2007,Sweden,The Ark,,,,1,1,"""The Worrying Kind""",English,1,,18,51,42,24,,,,
+13,2007,France,Les Fatals Picards,,,,1,1,"""L'amour ? la fran?aise""","French,?English?(""Franglais"")",1,,22,19,42,24,,,,
+14,2007,Latvia,Bonaparti.lv,1,,,1,,"""Questa notte""",Italian,1,,16,54,42,24,,,,
+15,2007,Russia,Serebro,1,,,1,,"""Song #1""",English,1,,3,207,42,24,,,,
+16,2007,Germany,Roger Cicero,1,,,,1,"""Frauen regier'n die Welt""","German,?English",1,,19,49,42,24,,,,
+17,2007,Serbia,Marija ?erifovi?,,1,,,1,"""Molitva"" (???????)",Serbian,1,,1,268,42,24,,,,
+18,2007,Ukraine,Verka Serduchka,,1,,,1,"""Dancing Lasha Tumbai""","Ukrainian,?Russian,?German,?English",1,,2,235,42,24,,,,
+19,2007,United Kingdom,Scooch,1,1,,1,1,"""Flying the Flag (for You)""",English,1,,23,19,42,24,,,,
+20,2007,Romania,Todomondo,,,,1,,"""Liubi, Liubi, I Love You""","English,?Italian,?Spanish,Russian,?French,?Romanian",1,,13,84,42,24,,,,
+21,2007,Bulgaria,Elitsa Todorova?and?Stoyan Yankoulov,1,1,1,,1,"""Water""",Bulgarian,1,,5,157,42,24,,,,
+22,2007,Turkey,Kenan Do?ulu,1,,,,1,"""Shake It Up ?ekerim""",English,1,,4,163,42,24,,,,
+23,2007,Armenia,Hayko,1,,,,1,"""Anytime You Need""","English,?Armenian",1,,8,138,42,24,,,,
+24,2007,Moldova,Natalia Barbu,,1,,,1,"""Fight""",English,1,,10,109,42,24,,,,
+1,2008,Montenegro,Stefan Filipovi?,1,,,,1,"""Zauvijek volim te""",Montenegrin,,,14,23,21,19,,,,
+2,2008,Israel,Boaz Ma'uda,1,,,,,"""The Fire in Your Eyes""","Hebrew,?English",,,5,104,21,19,,,,
+3,2008,Estonia,Kreisiraadio,,,,1,1,"""Leto svet""","Serbian,?German,?Finnish",,,18,8,21,19,,,,
+4,2008,Moldova,Geta Burlacu,,1,,,1,"""A Century of Love""",English,,,12,36,21,19,,,,
+5,2008,San Marino,Miodio,,,,1,1,"""Complice""",Italian,,,19,5,21,19,,,,
+6,2008,Belgium,Ishtar,,,,1,,"""O Julissi""",Imaginary,,,17,16,21,19,,,,
+7,2008,Azerbaijan,Elnur?and?Samir,1,,1,,,"""Day After Day""",English,,,6,96,21,19,,,,
+8,2008,Slovenia,Rebeka Dremelj,,1,,,1,"""Vrag naj vzame""",Slovene,,,11,36,21,19,,,,
+9,2008,Norway,Maria Haukaas Storeng,,1,,,1,"""Hold On Be Strong""",English,,,4,106,21,19,,,,
+10,2008,Poland,Isis Gee,,1,,,1,"""For Life""",English,,,10,42,21,19,,,,
+11,2008,Ireland,Dustin the Turkey,1,,,,1,"""Irelande Douze Pointe""","English,?French",,,15,22,21,19,,,,
+12,2008,Andorra,Gisela,,1,,,1,"""Casanova""","English,?Catalan",,,16,22,21,19,,,,
+13,2008,Bosnia and Herzegovina,Laka,1,1,1,,1,"""Poku?aj""",Bosnian,,,9,72,21,19,,,,
+14,2008,Armenia,Sirusho,,1,,,1,"""Q?l?, Q?l?"" (???? ????)","English,?Armenian",,,2,139,21,19,,,,
+15,2008,Netherlands,Hind,,1,,,1,"""Your Heart Belongs to Me""",English,,,13,27,21,19,,,,
+16,2008,Finland,Ter?sbetoni,,,,1,1,"""Miss? miehet ratsastaa""",Finnish,,,8,79,21,19,,,,
+17,2008,Romania,Nico?and?Vlad,1,1,1,,,"""Pe-o margine de lume""","Romanian,?Italian",,,7,94,21,19,,,,
+18,2008,Russia,Dima Bilan,1,,,,1,"""Believe""",English,,,3,135,21,19,,,,
+19,2008,Greece,Kalomira,,1,,,1,"""Secret Combination""",English,,,1,156,21,19,,,,
+1,2008,Iceland,Euroband,1,1,1,,,"""This Is My Life""",English,,,8,68,22,19,,,,
+2,2008,Sweden,Charlotte Perrelli,,1,,,1,"""Hero""",English,,,12,54,22,19,,,,
+3,2008,Turkey,Mor ve ?tesi,,,,1,1,"""Deli""",Turkish,,,7,85,22,19,,,,
+4,2008,Ukraine,Ani Lorak,,1,,,1,"""Shady Lady""",English,,,1,152,22,19,,,,
+5,2008,Lithuania,Jeronimas Milius,1,,,,1,"""Nomads in the Night""",English,,,16,30,22,19,,,,
+6,2008,Albania,Olta Boka,,1,,,,"""Zemr?n e lam? peng""",Albanian,,,9,67,22,19,,,,
+7,2008,Switzerland,Paolo Meneguzzi,1,,,,1,"""Era stupendo""",Italian,,,13,47,22,19,,,,
+8,2008,Czech Republic,Tereza Kerndlovò,,1,,,1,"""Have Some Fun""",English,,,18,9,22,19,,,,
+9,2008,Belarus,Ruslan Alekhno,1,,,,1,"""Hasta la Vista""",English,,,17,27,22,19,,,,
+10,2008,Latvia,Pirates of the Sea,,,,1,,"""Wolves of the Sea""",English,,,6,86,22,19,,,,
+11,2008,Croatia,Kraljevi ulice?and?75 cents,1,,,1,,"""Romanca""",Croatian,,,4,112,22,19,,,,
+12,2008,Bulgaria,Deep Zone?and?Balthazar,,,,1,1,"""DJ, Take Me Away""",English,,,11,56,22,19,,,,
+13,2008,Denmark,Simon Mathew,1,,,,1,"""All Night Long""",English,,,3,112,22,19,,,,
+14,2008,Georgia,Diana Gurtskaya,,1,,,1,"""Peace Will Come""",English,,,5,107,22,19,,,,
+15,2008,Hungary,Cs?zy,,1,,,,"""Candlelight""","English,?Hungarian",,,19,6,22,19,,,,
+16,2008,Malta,Morena,,1,,,1,"""Vodka""",English,,,14,38,22,19,,,,
+17,2008,Cyprus,Evdokia Kadi,,1,,,1,"""Femme Fatale""",Greek,,,15,36,22,19,,,,
+18,2008,Macedonia,"Tamara,?Vr?ak?&?Adrian",1,1,,1,,"""Let Me Love You""",English,,,10,64,22,19,,,,
+19,2008,Portugal,V?nia Fernandes,,1,,,1,"""Senhora do mar (Negras òguas)""",Portuguese,,,2,120,22,19,,,,
+1,2008,Romania,Nico?and?Vlad,1,1,1,,,"""Pe-o margine de lume""","Romanian,?Italian",1,,20,45,43,25,,,,
+2,2008,United Kingdom,Andy Abraham,1,,,,,"""Even If""",English,1,,25,14,43,25,,,,
+3,2008,Albania,Olta Boka,,1,,,,"""Zemr?n e lam? peng""",Albanian,1,,17,55,43,25,,,,
+4,2008,Germany,No Angels,,1,,1,1,"""Disappear""",English,1,,23,14,43,25,,,,
+5,2008,Armenia,Sirusho,,1,,,1,"""Q?l?, Q?l?"" (???? ????)","English,?Armenian",1,,4,199,43,25,,,,
+6,2008,Bosnia and Herzegovina,Laka,1,1,1,,1,"""Poku?aj""",Bosnian,1,,10,110,43,25,,,,
+7,2008,Israel,Boaz Ma'uda,1,,,,,"""The Fire in Your Eyes""","Hebrew,?English",1,,9,124,43,25,,,,
+8,2008,Finland,Ter?sbetoni,,,,1,1,"""Miss? miehet ratsastaa""",Finnish,1,,22,35,43,25,,,,
+9,2008,Croatia,Kraljevi Ulice?and?75 cents,1,,,1,,"""Romanca""",Croatian,1,,21,44,43,25,,,,
+10,2008,Poland,Isis Gee,,1,,,1,"""For Life""",English,1,,24,14,43,25,,,,
+11,2008,Iceland,Euroband,1,1,1,,,"""This Is My Life""",English,1,,14,64,43,25,,,,
+12,2008,Turkey,Mor ve ?tesi,,,,1,1,"""Deli""",Turkish,1,,7,138,43,25,,,,
+13,2008,Portugal,V?nia Fernandes,,1,,,1,"""Senhora do mar (Negras òguas)""",Portuguese,1,,13,69,43,25,,,,
+14,2008,Latvia,Pirates of the Sea,,,,1,,"""Wolves of the Sea""",English,1,,12,83,43,25,,,,
+15,2008,Sweden,Charlotte Perrelli,,1,,,1,"""Hero""",English,1,,18,47,43,25,,,,
+16,2008,Denmark,Simon Mathew,1,,,,1,"""All Night Long""",English,1,,15,60,43,25,,,,
+17,2008,Georgia,Diana Gurtskaya,,1,,,1,"""Peace Will Come""",English,1,,11,83,43,25,,,,
+18,2008,Ukraine,Ani Lorak,,1,,,1,"""Shady Lady""",English,1,,2,230,43,25,,,,
+19,2008,France,S?bastien Tellier,1,,,,1,"""Divine""","English,?French",1,,19,47,43,25,,,,
+20,2008,Azerbaijan,Elnur?and?Samir,1,,1,,,"""Day After Day""",English,1,,8,132,43,25,,,,
+21,2008,Greece,Kalomira,,1,,,1,"""Secret Combination""",English,1,,3,218,43,25,,,,
+22,2008,Spain,Rodolfo Chikilicuatre,1,,,,1,"""Baila el Chiki-chiki""","Spanish,?English",1,,16,55,43,25,,,,
+23,2008,Serbia,Jelena Toma?evi??feat.?Bora Dugi?,,1,,,1,"""Oro"" (???)",Serbian,1,,6,160,43,25,,,,
+24,2008,Russia,Dima Bilan,1,,,,1,"""Believe""",English,1,,1,272,43,25,,,,
+25,2008,Norway,Maria Haukaas Storeng,,1,,,1,"""Hold On Be Strong""",English,1,,5,182,43,25,,,,
+1,2009,Montenegro,Andrea Demirovi?,,1,,,1,"""Just Get Out of My Life""",English,,,11,44,20,18,2009.05.12,rw0fCiccd9U,165295,2689786
+2,2009,Czech Republic,Gipsy.cz,,,,1,1,"""Aven Romale""","English,?Romani",,,18,0,20,18,2009.05.12,w3CgUmzl4sk,132240,2689786
+3,2009,Belgium,Patrick Ouch?ne,1,,,,1,"""Copycat""",English,,,17,1,20,18,2009.05.12,uoCrJEqS214,108668,2689786
+4,2009,Belarus,Petr Elfimov,1,,,,1,"""Eyes That Never Lie""",English,,,13,25,20,18,2009.05.12,rTdl5BYK6OY,125730,2689786
+5,2009,Sweden,Malena Ernman,,1,,,1,"""La voix""","French,?English",,,4,105,20,18,2009.05.12,5WH2OwJeMBE,268959,2689786
+6,2009,Armenia,Inga and Anush,,1,1,,1,"""Jan Jan"" (??? ???)","English,?Armenian",,,5,99,20,18,2009.05.12,UF9BcOvBwfM,210001,2689786
+7,2009,Andorra,Susanne Georgi,,1,,,1,"""La teva decisi? (Get a Life)""","Catalan,?English",,,15,8,20,18,2009.05.12,6zukfWaIggY,119908,2689786
+8,2009,Switzerland,Lovebugs,,,,1,1,"""The Highest Heights""",English,,,14,15,20,18,2009.05.12,#NAME?,109989,2689786
+9,2009,Turkey,Hadise,,1,,,1,"""DÅm Tek Tek""",English,,,2,172,20,18,2009.05.12,#NAME?,275541,2689786
+10,2009,Israel,Noa?and?Mira Awad,,1,1,,,"""There Must Be Another Way""","English,?Hebrew,?Arabic",,,7,75,20,18,2009.05.12,RN8B1xvCxI0,153239,2689786
+11,2009,Bulgaria,Krassimir Avramov,1,,,,,"""Illusion""",English,,,16,7,20,18,2009.05.12,8MLp-GepMY8,78436,2689786
+12,2009,Iceland,Yohanna[68],,1,,,,"""Is It True?""",English,,,1,174,20,18,2009.05.12,8w97Z1iwKro,135116,2689786
+13,2009,Macedonia,Next Time,1,,1,,,"""Ne?to ?to kje ostane""",Macedonian,,,10,45,20,18,2009.05.12,AOQocxoouLg,67076,2689786
+14,2009,Romania,Elena,,1,,,1,"""The Balkan Girls""",English,,,9,67,20,18,2009.05.12,0kizLKALHm4,179878,2689786
+15,2009,Finland,Waldo's People,1,,,,1,"""Lose Control""",English,,,12,42,20,18,2009.05.12,Td6HeWx_6WQ,193840,2689786
+16,2009,Portugal,Flor-de-Lis,,,,1,1,"""Todas as ruas do amor""",Portuguese,,,8,70,20,18,2009.05.12,9AgNjqGFMQo,95645,2689786
+17,2009,Malta,Chiara,,1,,,1,"""What If We""",English,,,6,86,20,18,2009.05.12,RsC4_7pMOSY,118420,2689786
+18,2009,Bosnia and Herzegovina,Regina,,,,1,1,"""Bistra voda""",Bosnian,,,3,125,20,18,2009.05.12,liGJ3zo8uW4,151805,2689786
+1,2009,Croatia,Igor Cukrovfeat.?Andrea,1,1,1,,,"""Lijepa Tena""",Croatian,,,13,33,22,19,2009.05.14,eiXiKRtjJWI,102266,4884458
+2,2009,Ireland,Sin?ad Mulveyand?Black Daisy,,1,,1,,"""Et Cetera""",English,,,11,52,22,19,2009.05.14,cqVohtaYLeA,138760,4884458
+3,2009,Latvia,Intars Busulis,1,,,,1,"""Probka"" (??????)",Russian,,,19,7,22,19,2009.05.14,uubxd_8P97M,133297,4884458
+4,2009,Serbia,Marko Kon?andMilaan[72],1,,1,,,"""Cipela"" (??????)",Serbian,,,10,60,22,19,2009.05.14,DRObP8XE4Ko,154669,4884458
+5,2009,Poland,Lidia Kopania,,1,,,1,"""I Don't Wanna Leave""",English,,,12,43,22,19,2009.05.14,CKtPrmYuyzc,161534,4884458
+6,2009,Norway,Alexander Rybak,1,,,,,"""Fairytale""",English,,,1,201,22,19,2009.05.14,y4D_hguWPQE,521627,4884458
+7,2009,Cyprus,Christina Metaxa,,1,,,,"""Firefly""",English,,,14,32,22,19,2009.05.14,tSc9ftJ-_TA,166270,4884458
+8,2009,Slovakia,Kamil Mikul??kand?Nela Pociskovò,1,1,1,,,"""Le? tmou""",Slovak,,,18,8,22,19,2009.05.14,R3AzJzA2TT8,103370,4884458
+9,2009,Denmark,Brinck,1,,,,,"""Believe Again""",English,,,8,69,22,19,2009.05.14,NN9iln4mqzo,187718,4884458
+10,2009,Slovenia,Quartissimo?feat.Martina,,1,,1,1,"""Love Symphony""","English,Slovene",,,16,14,22,19,2009.05.14,afPh1slPAsc,97621,4884458
+11,2009,Hungary,Zoli ?dok,1,,,,1,"""Dance with Me""",English,,,15,16,22,19,2009.05.14,OCx2_mHr-T4,156253,4884458
+12,2009,Azerbaijan,AySel?andArash[73],1,1,,,,"""Always""",English,,,2,180,22,19,2009.05.14,HmA82DlI-Pc,857657,4884458
+13,2009,Greece,Sakis Rouvas,1,,,,1,"""This Is Our Night""",English,,,4,110,22,19,2009.05.14,BnLKQWIISJY,490543,4884458
+14,2009,Lithuania,Sasha Son,1,,,,1,"""Love""","English,Russian",,,9,66,22,19,2009.05.14,QJrPfCs8ub0,297483,4884458
+15,2009,Moldova,Nelly Ciobanu,,1,,,1,"""Hora din Moldova""","Romanian,English",,,5,106,22,19,2009.05.14,L20oTDefNcg,240921,4884458
+16,2009,Albania,Kejsi Tola,,1,,,,"""Carry Me in Your Dreams""",English,,,7,73,22,19,2009.05.14,,,4884458
+17,2009,Ukraine,Svetlana Loboda,,1,,,1,"""Be My Valentine""",English,,,6,80,22,19,2009.05.14,dFqw8_T_mpE,438912,4884458
+18,2009,Estonia,Urban Symphony,1,,,1,,"""R?ndajad""",Estonian,,,3,115,22,19,2009.05.14,fOsmEO_osXQ,200432,4884458
+19,2009,Netherlands,The Toppers,1,,,1,1,"""Shine""",English,,,17,11,22,19,2009.05.14,te1w81E8L5A,435125,4884458
+1,2009,Lithuania,Sasha Son,1,,,,1,"""Love""","English,Russian",1,,23,23,42,25,2009.05.16,QJrPfCs8ub0,418695,10348468
+2,2009,Israel,Noa?and?Mira Awad,,1,1,,,"""There Must Be Another Way""","English,Hebrew,?Arabic",1,,16,53,42,25,2009.05.16,RN8B1xvCxI0,260591,10348468
+3,2009,France,Patricia Kaas,,1,,,1,"""Et s'il fallait le faire""",French,1,,8,107,42,25,2009.05.16,vzT8Q15DWOM,437558,10348468
+4,2009,Sweden,Malena Ernman,,1,,,1,"""La voix""","French,?English",1,,21,33,42,25,2009.05.16,5WH2OwJeMBE,466704,10348468
+5,2009,Croatia,Igor Cukrovfeat.?Andrea,1,1,1,,,"""Lijepa Tena""",Croatian,1,,18,45,42,25,2009.05.16,eiXiKRtjJWI,142132,10348468
+6,2009,Portugal,Flor-de-Lis,,,,1,1,"""Todas as ruas do amor""",Portuguese,1,,15,57,42,25,2009.05.16,9AgNjqGFMQo,166497,10348468
+7,2009,Iceland,Yohanna[68],,1,,,,"""Is It True?""",English,1,,2,218,42,25,2009.05.16,8w97Z1iwKro,307696,10348468
+8,2009,Greece,Sakis Rouvas,1,,,,1,"""This Is Our Night""",English,1,,7,120,42,25,2009.05.16,BnLKQWIISJY,659244,10348468
+9,2009,Armenia,Inga and Anush,,1,1,,1,"""Jan Jan"" (??? ???)","English,Armenian",1,,10,92,42,25,2009.05.16,UF9BcOvBwfM,360664,10348468
+10,2009,Russia,Anastasiya Prikhodko,,1,,,,"""Mamo"" (????)","Russian,Ukrainian",1,,11,91,42,25,2009.05.16,vZbHXZtm9Ck,504563,10348468
+11,2009,Azerbaijan,AySel?andArash[73],1,1,,,,"""Always""",English,1,,3,207,42,25,2009.05.16,HmA82DlI-Pc,1193788,10348468
+12,2009,Bosnia and Herzegovina,Regina,,,,1,1,"""Bistra voda""",Bosnian,1,,9,106,42,25,2009.05.16,liGJ3zo8uW4,261321,10348468
+13,2009,Moldova,Nelly Ciobanu,,1,,,1,"""Hora din Moldova""","Romanian,English",1,,14,69,42,25,2009.05.16,L20oTDefNcg,348271,10348468
+14,2009,Malta,Chiara,,1,,,1,"""What If We""",English,1,,22,31,42,25,2009.05.16,RsC4_7pMOSY,205031,10348468
+15,2009,Estonia,Urban Symphony,1,,,1,,"""R?ndajad""",Estonian,1,,6,129,42,25,2009.05.16,fOsmEO_osXQ,312702,10348468
+16,2009,Denmark,Niels Brinck,1,,,,,"""Believe Again""",English,1,,13,74,42,25,2009.05.16,NN9iln4mqzo,250590,10348468
+17,2009,Germany,Alex?SwingsOscarSings![74],1,,1,,1,"""Miss Kiss Kiss Bang""",English,1,,20,35,42,25,2009.05.16,2FAuk8qGImA,388435,10348468
+18,2009,Turkey,Hadise,,1,,,1,"""DÅm Tek Tek""",English,1,,4,177,42,25,2009.05.16,#NAME?,527000,10348468
+19,2009,Albania,Kejsi Tola,,1,,,,"""Carry Me in Your Dreams""",English,1,,17,48,42,25,2009.05.16,,,10348468
+20,2009,Norway,Alexander Rybak,1,,,,,"""Fairytale""",English,1,,1,387,42,25,2009.05.16,y4D_hguWPQE,892058,10348468
+21,2009,Ukraine,Svetlana Loboda,,1,,,1,"""Be My Valentine""",English,1,,12,76,42,25,2009.05.16,dFqw8_T_mpE,597958,10348468
+22,2009,Romania,Elena,,1,,,1,"""The Balkan Girls""",English,1,,19,40,42,25,2009.05.16,0kizLKALHm4,323101,10348468
+23,2009,United Kingdom,Jade Ewen,,1,,,1,"""It's My Time""",English,1,,5,173,42,25,2009.05.16,i-RJc1i9q34,428430,10348468
+24,2009,Finland,Waldo's People,1,,,,1,"""Lose Control""",English,1,,25,22,42,25,2009.05.16,Td6HeWx_6WQ,313878,10348468
+25,2009,Spain,Soraya Arnelas,,1,,,1,"""La noche es para m?""","Spanish,English",1,,24,23,42,25,2009.05.16,yhqyofl-fP0,581561,10348468
+1,2010,Moldova,SunStroke Project?and Olia Tira,1,,,1,1,"""Run Away""",English,,,10,52,20,17,2010.05.25,ECyeUYsU14E,654389,5009705
+2,2010,Russia,Peter Nalitch and Friends,1,,,1,1,"""Lost and Forgotten""",English,,,7,74,20,17,2010.05.25,a-IhsDVq-NQ,217184,5009705
+3,2010,Estonia,Malcolm Lincoln?and?Manpower 4[59][60],1,,,1,,"""Siren""",English,,,14,39,20,17,2010.05.25,KEcNfmuF4YA,271843,5009705
+4,2010,Slovakia,Kristina[61][62],,1,,,1,"""Horehronie""",Slovak,,,16,24,20,17,2010.05.25,kghCqyMLPFA,345487,5009705
+5,2010,Finland,Kuunkuiskaajat[63][64],,1,1,,,"""Ty?lki ell??""",Finnish,,,11,49,20,17,2010.05.25,yvo2Ir6o3UE,140468,5009705
+6,2010,Latvia,Aisha[65][66],,1,,,1,"""What For?""",English,,,17,11,20,17,2010.05.25,eUeZlgeUmp0,410291,5009705
+7,2010,Serbia,Milan Stankovi?[67][68],1,,,,,"""Ovo je Balkan""",Serbian,,,5,79,20,17,2010.05.25,4xKeYFkB9Pw,986605,5009705
+8,2010,Bosnia and Herzegovina,Vuka?in Braji?[69],1,,,,,"""Thunder and Lightning""",English,,,8,59,20,17,2010.05.25,CE1-7P0l2Ns,0,5009705
+9,2010,Poland,Marcin Mrozi?ski[70][71],1,,,,,"""Legenda""","English,?Polish",,,13,44,20,17,2010.05.25,VTThFPoEZA0,195348,5009705
+10,2010,Belgium,Tom Dice[72][73],1,,,,,"""Me and My Guitar""",English,,,1,167,20,17,2010.05.25,zcwr9s1Wce4,148352,5009705
+11,2010,Malta,Thea Garrett[74][75],,1,,,,"""My Dream""",English,,,12,45,20,17,2010.05.25,0OToHVvkBfY,163803,5009705
+12,2010,Albania,Juliana Pasha[76],,1,,,,"""It's All About You""",English,,,6,76,20,17,2010.05.25,qgeklMIc6_k,527537,5009705
+13,2010,Greece,Giorgos Alkaios?and?Friends[77][78],1,,,1,1,"""OPA"" (???)",Greek,,,2,133,20,17,2010.05.25,w7L0joH6nM0,245228,5009705
+14,2010,Portugal,Filipa Azevedo[79][80],,1,,,1,"""Hò dias assim""",Portuguese,,,4,89,20,17,2010.05.25,wNngyFnyaPM,263460,5009705
+15,2010,Macedonia,"Gjoko Taneski,?Billy Zver?and?Pej?in[81][82]",1,,,1,,"""Jas ja imam silata""",Macedonian,,,15,37,20,17,2010.05.25,nLU4SI6WFc4,118385,5009705
+16,2010,Belarus,3+2?feat?Robert Wells[83][84],1,,,1,,"""Butterflies""",English,,,9,59,20,17,2010.05.25,nklIoJzjwwM,241849,5009705
+17,2010,Iceland,Hera Bj?rk[85][86],,1,,,1,"""Je ne sais quoi""",English,,,3,123,20,17,2010.05.25,XB8V0fjDuog,79476,5009705
+1,2010,Lithuania,InCulto[87][88],1,,,1,1,"""Eastern European Funk""",English,,,12,44,19,17,2010.05.27,ab9C0klYilw,476394,6438010
+2,2010,Armenia,Eva Rivas[89][90],,1,,,,"""Apricot Stone""",English,,,6,83,19,17,2010.05.27,buGOZExVf8o,558388,6438010
+3,2010,Israel,Harel Skaat[91][92],1,,,,1,"""Milim"" (?????)",Hebrew,,,8,71,19,17,2010.05.27,GelsXCyV5Nk,325939,6438010
+4,2010,Denmark,Chan?e?and?N'evergreen[93][94],1,1,1,,,"""In a Moment Like This""",English,,,5,101,19,17,2010.05.27,bPzXy-iHVgA,371360,6438010
+5,2010,Switzerland,Michael von der Heide[95],1,,,,1,"""Il pleut de l'or""",French,,,17,2,19,17,2010.05.27,fz7IlMTq2wQ,166258,6438010
+6,2010,Sweden,Anna Bergendahl[96][97],,1,,,,"""This Is My Life""",English,,,11,62,19,17,2010.05.27,5P1neQKN-1k,609855,6438010
+7,2010,Azerbaijan,Safura[98][99],,1,,,,"""Drip Drop""",English,,,2,113,19,17,2010.05.27,54qYAw9qtRc,426981,6438010
+8,2010,Ukraine,Alyosha[100][101],,1,,,1,"""Sweet People""",English,,,7,77,19,17,2010.05.27,NT9GFoRbnfc,95542,6438010
+9,2010,Netherlands,Sieneke[102][103],,1,,,,"""Ik ben verliefd (Sha-la-lie)""",Dutch,,,14,29,19,17,2010.05.27,_aARooQAfy8,281763,6438010
+10,2010,Romania,Paula Seling?and?Ovi[104][105],1,1,1,,1,"""Playing with Fire""",English,,,4,104,19,17,2010.05.27,K8iALS6-l7c,277234,6438010
+11,2010,Slovenia,Ansambel ?lindra?and?Kalamari[106][107],,,,1,,"""Narodnozabavni rock""",Slovene,,,16,6,19,17,2010.05.27,P7mRUZ4M1tk,138887,6438010
+12,2010,Ireland,Niamh Kavanagh[108][109],,1,,,1,"""It's for You""",English,,,9,67,19,17,2010.05.27,OH5XorOdx0w,306433,6438010
+13,2010,Bulgaria,Miro[110],1,,,,1,"""Angel si ti"" (????? ?? ??)","Bulgarian, English",,,15,19,19,17,2010.05.27,0B1whPvUZRU,286506,6438010
+14,2010,Cyprus,Jon Lilygreen?and?The Islanders[111][112],1,,,1,,"""Life Looks Better in Spring""",English,,,10,67,19,17,2010.05.27,2WqbmxbpQ1k,139150,6438010
+15,2010,Croatia,Feminnem[113][114],,1,,1,1,"""Lako je sve""",Croatian,,,13,33,19,17,2010.05.27,tkl4YU5oHB8,549391,6438010
+16,2010,Georgia,Sofia Nizharadze[115][116],,1,,,1,"""Shine""",English,,,3,106,19,17,2010.05.27,Z3nxhVyB5OM,500100,6438010
+17,2010,Turkey,maNga[117],1,,,1,1,"""We Could Be the Same""",English,,,1,118,19,17,2010.05.27,Pdw27j_usP0,927829,6438010
+1,2010,Azerbaijan,Safura[98][99],,1,,,,"""Drip Drop""",English,1,,5,145,39,25,2010.05.29,54qYAw9qtRc,698287,19272377
+2,2010,Spain,Daniel Diges[118][119],1,,,,,"""Algo Peque?ito""",Spanish,1,,15,68,39,25,2010.05.29,IGlKLUujURk,549740,19272377
+3,2010,Norway,Didrik Solli-Tangen[120][121],1,,,,,"""My Heart Is Yours""",English,1,,20,35,39,25,2010.05.29,B7cf9IVvovE,418493,19272377
+4,2010,Moldova,SunStroke Project?and?Olia Tira[55][56],1,,,1,1,"""Run Away""",English,1,,22,27,39,25,2010.05.29,ECyeUYsU14E,1024357,19272377
+5,2010,Cyprus,Jon Lilygreen?and?The Islanders[111][112],1,,,1,,"""Life Looks Better in Spring""",English,1,,21,27,39,25,2010.05.29,2WqbmxbpQ1k,192954,19272377
+6,2010,Bosnia and Herzegovina,Vuka?in Braji?[69],1,,,,,"""Thunder and Lightning""",English,1,,17,51,39,25,2010.05.29,CE1-7P0l2Ns,0,19272377
+7,2010,Belgium,Tom Dice[72][73],1,,,,,"""Me and My Guitar""",English,1,,6,143,39,25,2010.05.29,zcwr9s1Wce4,319103,19272377
+8,2010,Serbia,Milan Stankovi?[67][68],1,,,,,"""Ovo je Balkan"" (O?? je ??????)",Serbian,1,,13,72,39,25,2010.05.29,4xKeYFkB9Pw,1443149,19272377
+9,2010,Belarus,3+2?feat?Robert Wells[83][84],1,,,1,,"""Butterflies""",English,1,,24,18,39,25,2010.05.29,nklIoJzjwwM,361309,19272377
+10,2010,Ireland,Niamh Kavanagh[108][109],,1,,,1,"""It's for You""",English,1,,23,25,39,25,2010.05.29,OH5XorOdx0w,383339,19272377
+11,2010,Greece,Giorgos Alkaios?and?Friends[77][78],1,,,1,1,"""OPA!"" (???!)",Greek,1,,8,140,39,25,2010.05.29,w7L0joH6nM0,374394,19272377
+12,2010,United Kingdom,Josh Dubovie[122][123],1,,,,,"""That Sounds Good to Me""",English,1,,25,10,39,25,2010.05.29,b8363R9XbGY,355372,19272377
+13,2010,Georgia,Sofia Nizharadze[115][116],,1,,,1,"""Shine""",English,1,,9,136,39,25,2010.05.29,Z3nxhVyB5OM,646472,19272377
+14,2010,Turkey,maNga[117],1,,,1,1,"""We Could Be the Same""",English,1,,2,170,39,25,2010.05.29,Pdw27j_usP0,1312589,19272377
+15,2010,Albania,Juliana Pasha[76],,1,,,,"""It's All About You""",English,1,,16,62,39,25,2010.05.29,qgeklMIc6_k,775554,19272377
+16,2010,Iceland,Hera Bj?rk[85][86],,1,,,1,"""Je ne sais quoi""",English,1,,19,41,39,25,2010.05.29,XB8V0fjDuog,139747,19272377
+17,2010,Ukraine,Alyosha[100][101],,1,,,1,"""Sweet People""",English,1,,10,108,39,25,2010.05.29,NT9GFoRbnfc,144308,19272377
+18,2010,France,Jessy Matador[124],1,,,,1,"""Allez Ola Ol?""",French,1,,12,82,39,25,2010.05.29,IX2pxtkhx-M,534314,19272377
+19,2010,Romania,Paula Seling?and?Ovi[104][105],1,1,1,,1,"""Playing with Fire""",English,1,,3,162,39,25,2010.05.29,K8iALS6-l7c,396751,19272377
+20,2010,Russia,Peter Nalitch and Friends[57][58],1,,,1,1,"""Lost and Forgotten""",English,1,,11,90,39,25,2010.05.29,a-IhsDVq-NQ,373780,19272377
+21,2010,Armenia,Eva Rivas[89][90],,1,,,,"""Apricot Stone""",English,1,,7,141,39,25,2010.05.29,buGOZExVf8o,748549,19272377
+22,2010,Germany,Lena[125][126],,1,,,,"""Satellite""",English,1,,1,246,39,25,2010.05.29,8QSgNM9yNjo,6753354,19272377
+23,2010,Portugal,Filipa Azevedo[79][80],,1,,,1,"""Hò dias assim""",Portuguese,1,,18,43,39,25,2010.05.29,wNngyFnyaPM,414177,19272377
+24,2010,Israel,Harel Skaat[91][92],1,,,,1,"""Milim"" (?????)",Hebrew,1,,14,71,39,25,2010.05.29,GelsXCyV5Nk,411936,19272377
+25,2010,Denmark,Chan?e?and?N'evergreen[93][94],1,1,1,,,"""In a Moment Like This""",English,1,,4,149,39,25,2010.05.29,bPzXy-iHVgA,500349,19272377
+1,2011,Poland,Magdalena Tul,,1,,,1,"""Jestem""",Polish,,,19,18,21,19,2011.05.10,vkm6hCiuyXw,271625,3965863
+2,2011,Norway,Stella Mwangi,,1,,,1,"""Haba Haba""","English,?Swahili",,,17,30,21,19,2011.05.10,o7W-ko3Bbt8,323020,3965863
+3,2011,Albania,Aurela Ga?e,,1,,,1,"""Feel the Passion""","English,?Albanian",,,14,47,21,19,2011.05.10,35yy7Ls3ptc,202474,3965863
+4,2011,Armenia,Emmy,,1,,,1,"""Boom Boom""",English,,,12,54,21,19,2011.05.10,zqJD7fPSWAc,108942,3965863
+5,2011,Turkey,YÅksek Sadakat,,,,1,1,"""Live It Up""",English,,,13,47,21,19,2011.05.10,0QUDFPmcWgw,257524,3965863
+6,2011,Serbia,Nina,,1,,,,"""?aroban"" (???????)",Serbian,,,8,67,21,19,2011.05.10,jC8hu_9lonw,183137,3965863
+7,2011,Russia,Alexey Vorobyov,1,,,,1,"""Get You""","English, Russian",,,9,64,21,19,2011.05.10,rpiXxV3y8H0,342479,3965863
+8,2011,Switzerland,Anna Rossinelli,,1,,,,"""In Love for a While""",English,,,10,55,21,19,2011.05.10,PtlhYGVtZlk,175957,3965863
+9,2011,Georgia,Eldrine,,,,1,1,"""One More Day""",English,,,6,74,21,19,2011.05.10,LvnLWlHqMqM,188720,3965863
+10,2011,Finland,Paradise Oskar,1,,,,,"""Da Da Dam""",English,,,3,103,21,19,2011.05.10,h65xXOVrQzQ,222505,3965863
+11,2011,Malta,Glen Vella,1,,,,1,"""One Life""",English,,,11,54,21,19,2011.05.10,SYQnPY0znPA,147191,3965863
+12,2011,San Marino,Senit,,1,,,1,"""Stand By""",English,,,16,34,21,19,2011.05.10,Owh0pnNzh0Y,100328,3965863
+13,2011,Croatia,Daria,,1,,,,"""Celebrate""",English,,,15,41,21,19,2011.05.10,dtcsw6vLENg,154309,3965863
+14,2011,Iceland,Sjonni's Friends,,,,1,,"""Coming Home""",English,,,4,100,21,19,2011.05.10,foI2HlqsWQk,133511,3965863
+15,2011,Hungary,Kati Wolf,,1,,,1,"""What About My Dreams?""","English,?Hungarian",,,7,72,21,19,2011.05.10,Wy_oB_FYd7s,515243,3965863
+16,2011,Portugal,Homens da Luta,1,,,1,,"""A luta ? alegria""",Portuguese,,,18,22,21,19,2011.05.10,gDBjUoty-zE,133438,3965863
+17,2011,Lithuania,Evelina Sa?enko,,1,,,,"""C'est ma vie""",English,,,5,81,21,19,2011.05.10,BWsuBnfYQBw,144447,3965863
+18,2011,Azerbaijan,Ell & Nikki,1,1,1,,,"""Running Scared""",English,,,2,122,21,19,2011.05.10,eG2uNbNRkAw,129059,3965863
+19,2011,Greece,Loukas Giorkas?feat.?Stereo Mike,1,,1,,,"""Watch My Dance""","English,?Greek",,,1,133,21,19,2011.05.10,jtaD4Ayt0kg,231954,3965863
+1,2011,Bosnia and Herzegovina,Dino Merlin,1,,,,1,"""Love in Rewind""","English, Bosnian",,,5,109,22,19,2011.05.12,urqhlnWLXxs,303110,3994193
+2,2011,Austria,Nadine Beiler,,1,,,1,"""The Secret Is Love""",English,,,7,69,22,19,2011.05.12,s88qtWo7byY,0,3994193
+3,2011,Netherlands,3JS,1,,,1,1,"""Never Alone""",English,,,19,13,22,19,2011.05.12,KlneiG2bGuE,0,3994193
+4,2011,Belgium,Witloof Bay,1,1,,1,1,"""With Love Baby""",English,,,11,53,22,19,2011.05.12,ZD09ThCx4Cw,221458,3994193
+5,2011,Slovakia,TWiiNS,,1,1,,,"""I'm Still Alive""",English,,,13,48,22,19,2011.05.12,bt8QhxICZzA,168334,3994193
+6,2011,Ukraine,Mika Newton,,1,,,1,"""Angel""",English,,,6,81,22,19,2011.05.12,Jtfetx1u8I0,274187,3994193
+7,2011,Moldova,Zdob ?i Zdub,,,,1,1,"""So Lucky""",English,,,10,54,22,19,2011.05.12,GXTm9yKP4_4,134458,3994193
+8,2011,Sweden,Eric Saade,1,,,,1,"""Popular""",English,,,1,155,22,19,2011.05.12,iEX0WSq2jh4,347824,3994193
+9,2011,Cyprus,Christos Mylordos,1,,,,,"""San Aggelos S'agapisa""",Greek,,,18,16,22,19,2011.05.12,fmGLd3zqW9Q,125466,3994193
+10,2011,Bulgaria,Poli Genova,,1,,,1,"""Na inat"" (?? ????)",Bulgarian,,,12,48,22,19,2011.05.12,I4naw9iUrTw,137185,3994193
+11,2011,Macedonia,Vlatko Ilievski,1,,,,1,"""Rusinka"" (??????a)","Macedonian, English",,,16,36,22,19,2011.05.12,NRG2lY9CuL8,139543,3994193
+12,2011,Israel,Dana International,,1,,,1,"""Ding Dong""","Hebrew, English",,,15,38,22,19,2011.05.12,JmBMQJlzTa4,358908,3994193
+13,2011,Slovenia,Maja Keuc,,1,,,,"""No One""",English,,,3,112,22,19,2011.05.12,NM8QpZMjNpg,201709,3994193
+14,2011,Romania,Hotel FM,1,,,1,1,"""Change""",English,,,4,111,22,19,2011.05.12,7PnaTmV5I1Q,169917,3994193
+15,2011,Estonia,Getter Jaani,,1,,,,"""Rockefeller Street""",English,,,9,60,22,19,2011.05.12,kXFGFCRV3z0,398882,3994193
+16,2011,Belarus,Anastasia Vinnikova,,1,,,,"""I Love Belarus""",English,,,14,45,22,19,2011.05.12,Asz9f-9SxiE,303615,3994193
+17,2011,Latvia,Musiqq,1,,1,,,"""Angel in Disguise""",English,,,17,25,22,19,2011.05.12,4OCUTGmCums,143797,3994193
+18,2011,Denmark,A Friend in London,,,,1,1,"""New Tomorrow""",English,,,2,135,22,19,2011.05.12,aGVZktHLZhk,210932,3994193
+19,2011,Ireland,Jedward,1,,1,,,"""Lipstick""",English,,,8,68,22,19,2011.05.12,75ux9AvDPfI,354868,3994193
+1,2011,Finland,Paradise Oskar,1,,,,,"""Da Da Dam""",English,1,,21,57,43,25,2011.05.14,h65xXOVrQzQ,387485,9887613
+2,2011,Bosnia and Herzegovina,Dino Merlin,1,,,,1,"""Love in Rewind""","English,?Bosnian",1,,6,125,43,25,2011.05.14,urqhlnWLXxs,414120,9887613
+3,2011,Denmark,A Friend in London,,,,1,1,"""New Tomorrow""",English,1,,5,134,43,25,2011.05.14,aGVZktHLZhk,332256,9887613
+4,2011,Lithuania,Evelina Sa?enko,,1,,,,"""C'est ma vie""",English,1,,19,63,43,25,2011.05.14,BWsuBnfYQBw,237677,9887613
+5,2011,Hungary,Kati Wolf,,1,,,1,"""What About My Dreams?""","English,?Hungarian",1,,22,53,43,25,2011.05.14,Wy_oB_FYd7s,771065,9887613
+6,2011,Ireland,Jedward,1,,1,,,"""Lipstick""",English,1,,8,119,43,25,2011.05.14,75ux9AvDPfI,525980,9887613
+7,2011,Sweden,Eric Saade,1,,,,1,"""Popular""",English,1,,3,185,43,25,2011.05.14,iEX0WSq2jh4,509570,9887613
+8,2011,Estonia,Getter Jaani,,1,,,,"""Rockefeller Street""",English,1,,24,44,43,25,2011.05.14,kXFGFCRV3z0,521167,9887613
+9,2011,Greece,Loukas Giorkas?feat.?Stereo Mike,1,,1,,,"""Watch My Dance""","English,?Greek",1,,7,120,43,25,2011.05.14,jtaD4Ayt0kg,376035,9887613
+10,2011,Russia,Alexey Vorobyov,1,,,,1,"""Get You""","English, Russian",1,,16,77,43,25,2011.05.14,rpiXxV3y8H0,563365,9887613
+11,2011,France,Amaury Vassili,1,,,,,"""Sognu""",Corsican,1,,15,82,43,25,2011.05.14,uEb7hRo-Qyk,787004,9887613
+12,2011,Italy,Raphael Gualazzi,1,,,,1,"""Madness of Love""","Italian, English",1,,2,189,43,25,2011.05.14,tO0Ih3q4PSE,265706,9887613
+13,2011,Switzerland,Anna Rossinelli,,1,,,,"""In Love for a While""",English,1,,25,19,43,25,2011.05.14,PtlhYGVtZlk,290939,9887613
+14,2011,United Kingdom,Blue,1,,,1,1,"""I Can""",English,1,,11,100,43,25,2011.05.14,mRU31ieUhJM,611728,9887613
+15,2011,Moldova,Zdob ?i Zdub,,,,1,1,"""So Lucky""",English,1,,12,97,43,25,2011.05.14,GXTm9yKP4_4,204051,9887613
+16,2011,Germany,Lena,,1,,,1,"""Taken by a Stranger""",English,1,,10,107,43,25,2011.05.14,44ydDZlsruk,567483,9887613
+17,2011,Romania,Hotel FM,1,,,1,1,"""Change""",English,1,,17,77,43,25,2011.05.14,7PnaTmV5I1Q,234678,9887613
+18,2011,Austria,Nadine Beiler,,1,,,1,"""The Secret Is Love""",English,1,,18,64,43,25,2011.05.14,s88qtWo7byY,0,9887613
+19,2011,Azerbaijan,Ell & Nikki,1,1,1,,,"""Running Scared""",English,1,,1,221,43,25,2011.05.14,eG2uNbNRkAw,341456,9887613
+20,2011,Slovenia,Maja Keuc,,1,,,,"""No One""",English,1,,13,96,43,25,2011.05.14,NM8QpZMjNpg,269691,9887613
+21,2011,Iceland,Sjonni's Friends,,,,1,,"""Coming Home""",English,1,,20,61,43,25,2011.05.14,foI2HlqsWQk,211921,9887613
+22,2011,Spain,Luc?a P?rez,,1,,,1,"""Que me quiten lo bailao""3",Spanish,1,,23,50,43,25,2011.05.14,IYzomDkiORw,501248,9887613
+23,2011,Ukraine,Mika Newton,,1,,,1,"""Angel""",English,1,,4,159,43,25,2011.05.14,Jtfetx1u8I0,374281,9887613
+24,2011,Serbia,Nina,,1,,,,"""?aroban"" (???????)",Serbian,1,,14,85,43,25,2011.05.14,jC8hu_9lonw,288573,9887613
+25,2011,Georgia,Eldrine,,,,1,1,"""One More Day""",English,1,,9,110,43,25,2011.05.14,LvnLWlHqMqM,300134,9887613
+1,2012,Montenegro,Rambo Amadeus,1,,,,1,"""Euro Neuro""",English,,,15,20,21,18,2012.05.22,D6S-FNLv2jQ,737447,11240109
+2,2012,Iceland,Gr?ta SalõmeòandòJõnsi,1,1,1,,1,"""Never Forget""",English,,,8,75,21,18,2012.05.22,p8RS0eulXDo,505512,11240109
+3,2012,Greece,Eleftheria Eleftheriou,,1,,,,"""Aphrodisiac""",English,,,4,116,21,18,2012.05.22,isPtzi5cxBg,731652,11240109
+4,2012,Latvia,Anmary,,1,,,1,"""Beautiful Song""",English,,,16,17,21,18,2012.05.22,_CzSRTGq6Ds,303110,11240109
+5,2012,Albania,Rona Nishliu,,1,,,1,"""Suus""3",Albanian,,,2,146,21,18,2012.05.22,v9zIP4FA-1Y,556522,11240109
+6,2012,Romania,Mandinga,1,1,,1,1,"""Zaleilah""","Spanish, English",,,3,120,21,18,2012.05.22,VH2t9LpRGQk,702933,11240109
+7,2012,Switzerland,Sinplus,1,,1,,,"""Unbreakable""",English,,,11,45,21,18,2012.05.22,8yX1dIK9vuc,197540,11240109
+8,2012,Belgium,Iris,,1,,,,"""Would You?""",English,,,17,16,21,18,2012.05.22,5pGWkV7y6As,289244,11240109
+9,2012,Finland,Pernilla Karlsson,,1,,,,"""N?r jag blundar""",Swedish,,,12,41,21,18,2012.05.22,43GWoVxRk2Y,349840,11240109
+10,2012,Israel,Izabo,1,,,1,1,"""Time""","English,òHebrew",,,13,33,21,18,2012.05.22,lWMH6ID6Enc,353689,11240109
+11,2012,San Marino,Valentina Monetta[52],,1,,,1,"""The Social Network Song (Oh Oh ? Uh - Oh Oh)""[53]",English,,,14,31,21,18,2012.05.22,PqwBh9hq9PE,290819,11240109
+12,2012,Cyprus,Ivi Adamou,,1,,,,"""La La Love""",English,,,7,91,21,18,2012.05.22,Pedf_OQmcmI,1821356,11240109
+13,2012,Denmark,Soluna Samay,,1,,,1,"""Should've Known Better""",English,,,9,63,21,18,2012.05.22,6nR9nsKTx4g,277953,11240109
+14,2012,Russia,Buranovskiye Babushki,1,,,1,1,"""Party for Everybody""","Udmurt, English",,,1,152,21,18,2012.05.22,WKNRGc71hjc,2601321,11240109
+15,2012,Hungary,Compact Disco,1,,,1,1,"""Sound of Our Hearts""",English,,,10,52,21,18,2012.05.22,qVXhElLlWb8,297316,11240109
+16,2012,Austria,Trackshittaz,,,,1,,"""Woki mit deim Popo""",German,,,18,8,21,18,2012.05.22,BKQf8Z5uWQ8,523013,11240109
+17,2012,Moldova,Pasha Parfeny,1,,,,1,"""L?utar""",English,,,5,100,21,18,2012.05.22,3H7AILnPoio,225186,11240109
+18,2012,Ireland,Jedward,1,,1,,1,"""Waterline""",English,,,6,92,21,18,2012.05.22,D_ViQfViDPo,475656,11240109
+1,2012,Serbia,?eljko Joksimovi?,1,,,,1,"""Nije ljubav stvar""",Serbian,,,2,159,21,18,2012.05.24,75weifR47m0,819221,8740526
+2,2012,Macedonia,Kaliopi,,1,,,1,"""Crno i belo"" (???? ? ????)",Macedonian,,,9,53,21,18,2012.05.24,98FZchoQxvc,472425,8740526
+3,2012,Netherlands,Joan Franka,,1,,,,"""You and Me""",English,,,15,35,21,18,2012.05.24,zfofDgg-Jww,260354,8740526
+4,2012,Malta,Kurt Calleja,1,,,,,"""This Is the Night""",English,,,7,70,21,18,2012.05.24,cjhBsCop3Ys,404168,8740526
+5,2012,Belarus,Litesound,1,,1,,1,"""We Are the Heroes""",English,,,16,35,21,18,2012.05.24,hnJZG0eyavs,267969,8740526
+6,2012,Portugal,Filipa Sousa,,1,,,1,"""Vida minha""",Portuguese,,,13,39,21,18,2012.05.24,PPJUJHLGhA8,237318,8740526
+7,2012,Ukraine,Gaitana,,1,,,,"""Be My Guest""",English,,,8,64,21,18,2012.05.24,i-LyyCxlSFc,383559,8740526
+8,2012,Bulgaria,Sofi Marinova,,1,,,1,"""Love Unlimited""",Bulgarian,,,11,45,21,18,2012.05.24,zM4kCl-yKgo,151599,8740526
+9,2012,Slovenia,Eva Boto,,1,,,,"""Verjamem""",Slovene,,,17,31,21,18,2012.05.24,SUrkusKotaA,340914,8740526
+10,2012,Croatia,Nina Badri?,,1,,,1,"""Nebo""",Croatian,,,12,42,21,18,2012.05.24,z5_tqyCjFZ8,995422,8740526
+11,2012,Sweden,Loreen,,1,,,1,"""Euphoria""",English,,,1,181,21,18,2012.05.24,4nJcmLMb5to,1120834,8740526
+12,2012,Georgia,Anri Jokhadze,1,,,,1,"""I'm a Joker""","English,òGeorgian",,,14,36,21,18,2012.05.24,ipwVklW5w4o,41131,8740526
+13,2012,Turkey,Can Bonomo,1,,,,1,"""Love Me Back""",English,,,5,80,21,18,2012.05.24,7PneOwzMz4M,1174090,8740526
+14,2012,Estonia,Ott Lepland,1,,,,,"""Kuula""",Estonian,,,4,100,21,18,2012.05.24,PSQdnvzV8CE,439090,8740526
+15,2012,Slovakia,Max Jason Mai,1,,,,1,"""Don't Close Your Eyes""",English,,,18,22,21,18,2012.05.24,z2_7YdLk1Tc,346306,8740526
+16,2012,Norway,Tooji,1,,,,,"""Stay""",English,,,10,45,21,18,2012.05.24,fOdRFtwTzb8,454809,8740526
+17,2012,Bosnia and Herzegovina,Maya Sar,,1,,,,"""Korake ti znam""",Bosnian,,,6,77,21,18,2012.05.24,v_fyisw2--M,549998,8740526
+18,2012,Lithuania,Donny Montell,1,,,,1,"""Love Is Blind""",English,,,3,104,21,18,2012.05.24,28Zel35BCwo,281319,8740526
+1,2012,United Kingdom,Engelbert Humperdinck,1,,,,1,"""Love Will Set You Free""",English,1,,25,12,42,26,2012.05.26,pFNv9pjqZkk,1609397,26424469
+2,2012,Hungary,Compact Disco,1,,,1,1,"""Sound of Our Hearts""",English,1,,24,19,42,26,2012.05.26,qVXhElLlWb8,466719,26424469
+3,2012,Albania,Rona Nishliu,,1,,,1,"""Suus""3",Albanian,1,,5,146,42,26,2012.05.26,v9zIP4FA-1Y,903748,26424469
+4,2012,Lithuania,Donny Montell,1,,,,1,"""Love Is Blind""",English,1,,14,70,42,26,2012.05.26,28Zel35BCwo,435224,26424469
+5,2012,Bosnia and Herzegovina,Maya Sar,,1,,,,"""Korake ti znam""",Bosnian,1,,18,55,42,26,2012.05.26,v_fyisw2--M,685923,26424469
+6,2012,Russia,Buranovskiye Babushki,1,,,1,1,"""Party for Everybody""","Udmurt, English",1,,2,259,42,26,2012.05.26,WKNRGc71hjc,4345950,26424469
+7,2012,Iceland,Gr?ta SalõmeòandòJõnsi,1,1,1,,1,"""Never Forget""",English,1,,20,46,42,26,2012.05.26,p8RS0eulXDo,700730,26424469
+8,2012,Cyprus,Ivi Adamou,,1,,,,"""La La Love""",English,1,,16,65,42,26,2012.05.26,Pedf_OQmcmI,2686251,26424469
+9,2012,France,Anggun,,1,,,1,"""Echo (You and I)""","French, English",1,,22,21,42,26,2012.05.26,SnSmB7uBo-Y,494535,26424469
+10,2012,Italy,Nina Zilli,,1,,,1,"""L'amore ? femmina (Out of Love)""","English,òItalian",1,,9,101,42,26,2012.05.26,coqLVynejo8,185093,26424469
+11,2012,Estonia,Ott Lepland,1,,,,,"""Kuula""",Estonian,1,,6,120,42,26,2012.05.26,PSQdnvzV8CE,574334,26424469
+12,2012,Norway,Tooji,1,,,,,"""Stay""",English,1,,26,7,42,26,2012.05.26,fOdRFtwTzb8,605740,26424469
+13,2012,Azerbaijan,Sabina Babayeva,,1,,,1,"""When the Music Dies""",English,1,,4,150,42,26,2012.05.26,-8ejpLyXSuY,1160560,26424469
+14,2012,Romania,Mandinga,1,1,,1,1,"""Zaleilah""","Spanish, English",1,,12,71,42,26,2012.05.26,VH2t9LpRGQk,1066016,26424469
+15,2012,Denmark,Soluna Samay,,1,,,1,"""Should've Known Better""",English,1,,23,21,42,26,2012.05.26,6nR9nsKTx4g,412710,26424469
+16,2012,Greece,Eleftheria Eleftheriou,,1,,,,"""Aphrodisiac""",English,1,,17,64,42,26,2012.05.26,isPtzi5cxBg,1166863,26424469
+17,2012,Sweden,Loreen,,1,,,1,"""Euphoria""",English,1,,1,372,42,26,2012.05.26,4nJcmLMb5to,2206749,26424469
+18,2012,Turkey,Can Bonomo,1,,,,1,"""Love Me Back""",English,1,,7,112,42,26,2012.05.26,7PneOwzMz4M,1485813,26424469
+19,2012,Spain,Pastora Soler,,1,,,1,"""Qu?date conmigo""",Spanish,1,,10,97,42,26,2012.05.26,fL-s0eRRYTE,0,26424469
+20,2012,Germany,Roman Lob,1,,,,,"""Standing Still""",English,1,,8,110,42,26,2012.05.26,MxA6TWLttZo,1210504,26424469
+21,2012,Malta,Kurt Calleja,1,,,,,"""This Is the Night""",English,1,,21,41,42,26,2012.05.26,cjhBsCop3Ys,590437,26424469
+22,2012,Macedonia,Kaliopi,,1,,,1,"""Crno i belo"" (???? ? ????)",Macedonian,1,,13,71,42,26,2012.05.26,98FZchoQxvc,718279,26424469
+23,2012,Ireland,Jedward,1,,1,,1,"""Waterline""",English,1,,19,46,42,26,2012.05.26,D_ViQfViDPo,679781,26424469
+24,2012,Serbia,?eljko Joksimovi?,1,,,,1,"""Nije ljubav stvar""",Serbian,1,,3,214,42,26,2012.05.26,75weifR47m0,1168112,26424469
+25,2012,Ukraine,Gaitana,,1,,,,"""Be My Guest""",English,1,,15,65,42,26,2012.05.26,i-LyyCxlSFc,498016,26424469
+26,2012,Moldova,Pasha Parfeny,1,,,,1,"""L?utar""",English,1,,11,81,42,26,2012.05.26,3H7AILnPoio,366985,26424469
+1,2013,Austria,Natˇlia Kelly,,1,,,1,"""Shine""",English,,,14,27,19,16,2013.05.14,1RPLzJ5hqYc,139075,7929280
+2,2013,Estonia,Birgit,,1,,,1,"""Et uus saaks alguse""",Estonian,,,10,52,19,16,2013.05.14,02uHFbCN2JI,148417,7929280
+3,2013,Slovenia,Hannah,,1,,,1,"""Straight into Love""",English,,,16,8,19,16,2013.05.14,SqL0SP3zARg,277760,7929280
+4,2013,Croatia,Klapa s Mora,1,,,1,,"""Mi?erja""",Croatian,,,13,38,19,16,2013.05.14,qdESBf3UFQI,144222,7929280
+5,2013,Denmark,Emmelie de Forest,,1,,,,"""Only Teardrops""",English,,,1,167,19,16,2013.05.14,k59E7T0H-Us,1483618,7929280
+6,2013,Russia,Dina Garipova,,1,,,,"""What If""",English,,,2,156,19,16,2013.05.14,1VwzdeRNjtA,608762,7929280
+7,2013,Ukraine,Zlata Ognevich,,1,,,,"""Gravity""",English,,,3,140,19,16,2013.05.14,#NAME?,1302871,7929280
+8,2013,Netherlands,Anouk,,1,,,1,"""Birds""",English,,,6,75,19,16,2013.05.14,1vtOwHHDAFc,317056,7929280
+9,2013,Montenegro,Who See,1,,1,,1,"""Igranka"" (???????)",Montenegrin,,,12,41,19,16,2013.05.14,8BmHI_57vJk,1575078,7929280
+10,2013,Lithuania,Andrius Pojavis,1,,,,1,"""Something""",English,,,9,53,19,16,2013.05.14,MCZ6RRwKcIE,272577,7929280
+11,2013,Belarus,Alyona Lanskaya,,1,,,,"""Solayoh""",English,,,7,64,19,16,2013.05.14,N4S4m9R-ffA,207455,7929280
+12,2013,Moldova,Aliona Moon,,1,,,,"""O mie""",Romanian,,,4,95,19,16,2013.05.14,a2MAIExkd7I,62949,7929280
+13,2013,Ireland,Ryan Dolan,1,,,,,"""Only Love Survives""",English,,,8,54,19,16,2013.05.14,iGaZKoim43U,139083,7929280
+14,2013,Cyprus,Despina Olympiou,,1,,,1,"""An me thimase"" (A? ?å ????ÜÖ?)",Greek,,,15,11,19,16,2013.05.14,OEd1TsVBo9U,154672,7929280
+15,2013,Belgium,Roberto Bellarosa,1,,,,,"""Love Kills""",English,,,5,75,19,16,2013.05.14,C9uExokZcIM,280202,7929280
+16,2013,Serbia,Moje 3,,1,,1,,"""Ljubav je svuda"" (????? ?? ?????)",Serbian,,,11,46,19,16,2013.05.14,LW7TAdytfww,815483,7929280
+1,2013,Latvia,PeR,1,,,1,1,"""Here We Go""",English,,,17,13,20,17,2013.05.16,P4lwr-zMSnM,133267,5993743
+2,2013,San Marino,Valentina Monetta,,1,,,1,"""Crisalide (Vola)""",Italian,,,11,47,20,17,2013.05.16,xi8mZ2ejLcE,338047,5993743
+3,2013,Macedonia,EsmaòandòLozano,1,1,1,,1,"""Pred da se razdeni"" (???? ?? ?? ???????)","Macedonian,òRomani",,,16,28,20,17,2013.05.16,#NAME?,235523,5993743
+4,2013,Azerbaijan,Farid Mammadov,1,,,,,"""Hold Me""",English,,,1,139,20,17,2013.05.16,r5egVzkZGTg,1266009,5993743
+5,2013,Finland,Krista Siegfrids,,1,,,,"""Marry Me""",English,,,9,64,20,17,2013.05.16,FdU02F9lT2g,285673,5993743
+6,2013,Malta,Gianluca,1,,,,,"""Tomorrow""",English,,,4,118,20,17,2013.05.16,8WmJXIR9xtw,371202,5993743
+7,2013,Bulgaria,Elitsa Todorova and Stoyan Yankoulov,1,1,1,,1,"""Samo shampioni"" (???? ????????)",Bulgarian,,,12,45,20,17,2013.05.16,bExp3aNOFsE,278393,5993743
+8,2013,Iceland,Eythor Ingi,1,,,,1,"""êg ˇ l≠f""",Icelandic,,,6,72,20,17,2013.05.16,PtunhyMW1hM,267336,5993743
+9,2013,Greece,Koza Mostraòfeat.òAgathon Iakovidis,1,,,1,1,"""Alcohol Is Free""",Greek,,,2,121,20,17,2013.05.16,G3k2MOJOkKg,542617,5993743
+10,2013,Israel,Moran Mazor,,1,,,,"""Rak Bishvilo"" (?? ??????)",Hebrew,,,14,40,20,17,2013.05.16,rYuSe5h-rrg,203456,5993743
+11,2013,Armenia,Dorians,1,,,1,1,"""Lonely Planet""",English,,,7,69,20,17,2013.05.16,JSs03Sp-4ME,180687,5993743
+12,2013,Hungary,ByeAlex,1,,,,,"""Kedvesem"" (Zoohacker Remix)",Hungarian,,,8,66,20,17,2013.05.16,UmjsIhihJMY,215828,5993743
+13,2013,Norway,Margaret Berger,,1,,,1,"""I Feed You My Love""",English,,,3,120,20,17,2013.05.16,gjm-kCOMaPY,624030,5993743
+14,2013,Albania,Adrian LulgjurajòandòBledar Sejko,1,,1,,1,"""Identitet""",Albanian,,,15,31,20,17,2013.05.16,_Pf-ZCI-UuA,266316,5993743
+15,2013,Georgia,Nodi TatishviliòandòSophie Gelovani,1,1,1,,1,"""Waterfall""",English,,,10,63,20,17,2013.05.16,CvdcRmzuXKM,180264,5993743
+16,2013,Switzerland,Takasa2,1,1,,1,,"""You and Me""",English,,,13,41,20,17,2013.05.16,fBGpqq2LFSQ,334655,5993743
+17,2013,Romania,Cezar,1,,,,,"""It's My Life""",English,,,5,83,20,17,2013.05.16,8pNEEb6dzi8,270440,5993743
+1,2013,France,Amandine Bourgeois,,1,,,1,"""L'enfer et moi""",French,1,,23,14,39,26,2013.05.18,YQJaab8j4fU,473595,17783087
+2,2013,Lithuania,Andrius Pojavis,1,,,,1,"""Something""",English,1,,22,17,39,26,2013.05.18,MCZ6RRwKcIE,463940,17783087
+3,2013,Moldova,Aliona Moon,,1,,,,"""O mie""",Romanian,1,,11,71,39,26,2013.05.18,a2MAIExkd7I,150443,17783087
+4,2013,Finland,Krista Siegfrids,,1,,,,"""Marry Me""",English,1,,24,13,39,26,2013.05.18,FdU02F9lT2g,386413,17783087
+5,2013,Spain,ESDM,,1,,1,1,"""Contigo hasta el final""",Spanish,1,,25,8,39,26,2013.05.18,Q5m8aCZSvws,364627,17783087
+6,2013,Belgium,Roberto Bellarosa,1,,,,,"""Love Kills""",English,1,,12,71,39,26,2013.05.18,C9uExokZcIM,508047,17783087
+7,2013,Estonia,Birgit,,1,,,1,"""Et uus saaks alguse""",Estonian,1,,20,19,39,26,2013.05.18,02uHFbCN2JI,206219,17783087
+8,2013,Belarus,Alyona Lanskaya,,1,,,,"""Solayoh""",English,1,,16,48,39,26,2013.05.18,N4S4m9R-ffA,357217,17783087
+9,2013,Malta,Gianluca,1,,,,,"""Tomorrow""",English,1,,8,120,39,26,2013.05.18,8WmJXIR9xtw,535343,17783087
+10,2013,Russia,Dina Garipova,,1,,,,"""What If""",English,1,,5,174,39,26,2013.05.18,1VwzdeRNjtA,931380,17783087
+11,2013,Germany,Cascada,,1,,1,1,"""Glorious""",English,1,,21,18,39,26,2013.05.18,s8LPaowU9js,760793,17783087
+12,2013,Armenia,Dorians,1,,,1,1,"""Lonely Planet""",English,1,,18,41,39,26,2013.05.18,JSs03Sp-4ME,227866,17783087
+13,2013,Netherlands,Anouk,,1,,,1,"""Birds""",English,1,,9,114,39,26,2013.05.18,1vtOwHHDAFc,484050,17783087
+14,2013,Romania,Cezar,1,,,,,"""It's My Life""",English,1,,13,65,39,26,2013.05.18,8pNEEb6dzi8,379815,17783087
+15,2013,United Kingdom,Bonnie Tyler,,1,,,1,"""Believe in Me""",English,1,,19,23,39,26,2013.05.18,HALTU11QE6g,602898,17783087
+16,2013,Sweden,Robin Stjernberg,1,,,,1,"""You""",English,1,,14,62,39,26,2013.05.18,jBUJ0u7ZVaE,766686,17783087
+17,2013,Hungary,ByeAlex,1,,,,,"""Kedvesem"" (Zoohacker Remix)",Hungarian,1,,10,84,39,26,2013.05.18,UmjsIhihJMY,333862,17783087
+18,2013,Denmark,Emmelie de Forest,,1,,,,"""Only Teardrops""",English,1,,1,281,39,26,2013.05.18,k59E7T0H-Us,3442397,17783087
+19,2013,Iceland,Eythor Ingi,1,,,,1,"""êg ˇ l≠f""",Icelandic,1,,17,47,39,26,2013.05.18,PtunhyMW1hM,345542,17783087
+20,2013,Azerbaijan,Farid Mammadov,1,,,,,"""Hold Me""",English,1,,2,234,39,26,2013.05.18,r5egVzkZGTg,1708586,17783087
+21,2013,Greece,Koza Mostraòfeat.òAgathon Iakovidis,1,,,1,1,"""Alcohol Is Free""",Greek,1,,6,152,39,26,2013.05.18,G3k2MOJOkKg,859318,17783087
+22,2013,Ukraine,Zlata Ognevich,,1,,,,"""Gravity""",English,1,,3,214,39,26,2013.05.18,#NAME?,1473875,17783087
+23,2013,Italy,Marco Mengoni,1,,,,1,"""L'essenziale""",Italian,1,,7,126,39,26,2013.05.18,X2C-ePvHfAs,634342,17783087
+24,2013,Norway,Margaret Berger,,1,,,1,"""I Feed You My Love""",English,1,,4,191,39,26,2013.05.18,gjm-kCOMaPY,991129,17783087
+25,2013,Georgia,Nodi TatishviliòandòSophie Gelovani,1,1,1,,1,"""Waterfall""",English,1,,15,50,39,26,2013.05.18,CvdcRmzuXKM,211792,17783087
+26,2013,Ireland,Ryan Dolan,1,,,,,"""Only Love Survives""",English,1,,26,5,39,26,2013.05.18,iGaZKoim43U,182912,17783087
+1,2014,Armenia,Aram MP3,1,,,,,"""Not Alone""",English,,,4,121,19,16,2014.05.06,ChkJpnOgIwQ,3042587,11350834
+2,2014,Latvia,Aarzemnieki,1,,,1,,"""Cake to Bake""","English,òLatvian",,,13,33,19,16,2014.05.06,L7CL8anA1hQ,302640,11350834
+3,2014,Estonia,Tanja,,1,,,1,"""Amazing""",English,,,12,36,19,16,2014.05.06,7VRSXRXBWCs,356565,11350834
+4,2014,Sweden,Sanna Nielsen,,1,,,1,"""Undo""",English,,,2,131,19,16,2014.05.06,XdXXnX5BvGY,785540,11350834
+5,2014,Iceland,Pollap?nk,1,,,1,1,"""No Prejudice""",English,,,8,61,19,16,2014.05.06,TwfGKEIn5xw,307819,11350834
+6,2014,Albania,Hersi,,1,,,1,"""One Night's Anger""",English,,,15,22,19,16,2014.05.06,J4ABpIspdic,289884,11350834
+7,2014,Russia,Tolmachevy Sisters,,1,1,,1,"""Shine""",English,,,6,63,19,16,2014.05.06,MPI7AnD_QS8,836252,11350834
+8,2014,Azerbaijan,Dilara Kazimova,,1,,,1,"""Start a Fire""",English,,,9,57,19,16,2014.05.06,ipQswujA5gw,1414930,11350834
+9,2014,Ukraine,Mariya Yaremchuk,,1,,,,"""Tick-Tock""",English,,,5,118,19,16,2014.05.06,sdAf2EjhRiE,900194,11350834
+10,2014,Belgium,Axel Hirsoux,1,,,,,"""Mother""",English,,,14,28,19,16,2014.05.06,APWpOkRQoiY,244783,11350834
+11,2014,Moldova,Cristina Scarlat,,1,,,1,"""Wild Soul""",English,,,16,13,19,16,2014.05.06,z_E12QokqAs,231044,11350834
+12,2014,San Marino,Valentina Monetta,,1,,,1,"""Maybe""",English,,,10,40,19,16,2014.05.06,vt_3yms1PcM,286626,11350834
+13,2014,Portugal,Suzy,,1,,,1,"""Quero ser tua""",Portuguese,,,11,39,19,16,2014.05.06,CcTiPW-X8q4,258673,11350834
+14,2014,Netherlands,The Common Linnets,1,1,1,,1,"""Calm After the Storm""",English,,,1,150,19,16,2014.05.06,hkrF8uC92O4,550057,11350834
+15,2014,Montenegro,Sergej ?etkovi?,1,,,,1,"""Moj svijet"" (??? ??????)",Montenegrin,,,7,63,19,16,2014.05.06,Xym7CQFFTOU,1033016,11350834
+16,2014,Hungary,Andrˇs Kˇllay-Saunders,1,,,,,"""Running""",English,,,3,127,19,16,2014.05.06,QzfRDZmuFUI,510224,11350834
+1,2014,Malta,Firelight,1,,,1,,"""Coming Home""",English,,,9,63,18,15,2014.05.08,Qxi5C-lGX2Y,397389,6433010
+2,2014,Israel,Mei Finegold,,1,,,1,"""Same Heart""","English,òHebrew",,,14,19,18,15,2014.05.08,_uB4JMw4ctc,944115,6433010
+3,2014,Norway,Carl Espen,1,,,,,"""Silent Storm""",English,,,6,77,18,15,2014.05.08,2LBOjxBty8U,483626,6433010
+4,2014,Georgia,The ShinòandòMariko,,1,,1,1,"""Three Minutes to Earth""",English,,,15,15,18,15,2014.05.08,o9ixkdkbieU,282583,6433010
+5,2014,Poland,Donatanò&òCleo,1,1,1,,1,"""My S?owianie - We Are Slavic""","Polish, English",,,8,70,18,15,2014.05.08,syMhJMmGEIc,1446700,6433010
+6,2014,Austria,Conchita Wurst,,1,,,1,"""Rise Like a Phoenix""",English,,,1,169,18,15,2014.05.08,ToqNa0rqUtY,0,6433010
+7,2014,Lithuania,Vilija,,1,,,1,"""Attention""",English,,,11,36,18,15,2014.05.08,PWi0zF6bFto,402098,6433010
+8,2014,Finland,Softengine,1,,,1,,"""Something Better""",English,,,3,97,18,15,2014.05.08,a-NSVFBKU-4,418238,6433010
+9,2014,Ireland,Can-Linnòfeat.òKasey Smith,,1,,1,,"""Heartbeat""",English,,,12,35,18,15,2014.05.08,Zc14AzCXUgQ,360009,6433010
+10,2014,Belarus,Teo,1,,,,,"""Cheesecake""",English,,,5,87,18,15,2014.05.08,0Qe7YmYgowM,466706,6433010
+11,2014,Macedonia,Tijana,,1,,,1,"""To the Sky""",English,,,13,33,18,15,2014.05.08,OyY6Rwys7kE,142723,6433010
+12,2014,Switzerland,Sebalter,1,,,,1,"""Hunter of Stars""",English,,,4,92,18,15,2014.05.08,kjWG0oNpWog,333480,6433010
+13,2014,Greece,Freaky Fortuneòfeat.òRiskyKidd,1,,1,,,"""Rise Up""",English,,,7,74,18,15,2014.05.08,z8QIbL9i2MU,348161,6433010
+14,2014,Slovenia,Tinkara Kova?,,1,,,1,"""Round and Round""","English,òSlovene",,,10,52,18,15,2014.05.08,ZMpNkCOMaGU,300600,6433010
+15,2014,Romania,Paula Selingò&òOvi,1,1,1,,,"""Miracle""",English,,,2,125,18,15,2014.05.08,rVTGnT3Bur0,106582,6433010
+1,2014,Ukraine,Mariya Yaremchuk,,1,,,,"""Tick-Tock""",English,1,,6,113,37,26,2014.05.10,sdAf2EjhRiE,1443995,25611799
+2,2014,Belarus,Teo,1,,,,,"""Cheesecake""",English,1,,16,43,37,26,2014.05.10,0Qe7YmYgowM,726201,25611799
+3,2014,Azerbaijan,Dilara Kazimova,,1,,,1,"""Start a Fire""",English,1,,22,33,37,26,2014.05.10,ipQswujA5gw,1704525,25611799
+4,2014,Iceland,Pollap?nk,1,,,1,1,"""No Prejudice""",English,1,,15,58,37,26,2014.05.10,TwfGKEIn5xw,505054,25611799
+5,2014,Norway,Carl Espen,1,,,,,"""Silent Storm""",English,1,,8,88,37,26,2014.05.10,2LBOjxBty8U,679723,25611799
+6,2014,Romania,Paula Selingò&òOvi,1,1,1,,,"""Miracle""",English,1,,12,72,37,26,2014.05.10,rVTGnT3Bur0,193298,25611799
+7,2014,Armenia,Aram MP3,1,,,,,"""Not Alone""",English,1,,4,174,37,26,2014.05.10,ChkJpnOgIwQ,4080648,25611799
+8,2014,Montenegro,Sergej ?etkovi?,1,,,,1,"""Moj svijet"" (??? ??????)",Montenegrin,1,,19,37,37,26,2014.05.10,Xym7CQFFTOU,1259201,25611799
+9,2014,Poland,Donatanò&òCleo,1,1,1,,1,"""My S?owianie ? We Are Slavic""","Polish, English",1,,14,62,37,26,2014.05.10,syMhJMmGEIc,2442506,25611799
+10,2014,Greece,Freaky Fortuneòfeat.òRiskyKidd,1,,1,,,"""Rise Up""",English,1,,20,35,37,26,2014.05.10,z8QIbL9i2MU,456999,25611799
+11,2014,Austria,Conchita Wurst,,1,,,1,"""Rise Like a Phoenix""",English,1,,1,290,37,26,2014.05.10,ToqNa0rqUtY,0,25611799
+12,2014,Germany,Elaiza,,1,,1,,"""Is It Right""",English,1,,18,39,37,26,2014.05.10,mTC-4YO_5eE,278602,25611799
+13,2014,Sweden,Sanna Nielsen,,1,,,1,"""Undo""",English,1,,3,218,37,26,2014.05.10,XdXXnX5BvGY,1316129,25611799
+14,2014,France,TWIN TWIN,1,,,1,1,"""Moustache""",French,1,,26,2,37,26,2014.05.10,hWJFfnHNOWI,1315426,25611799
+15,2014,Russia,Tolmachevy Sisters,,1,1,,1,"""Shine""",English,1,,7,89,37,26,2014.05.10,MPI7AnD_QS8,1367202,25611799
+16,2014,Italy,Emma,,1,,,1,"""La mia citt?""",Italian,1,,21,33,37,26,2014.05.10,Si9K0ChHzDI,1287735,25611799
+17,2014,Slovenia,Tinkara Kova?,,1,,,1,"""Round and Round""","English,òSlovene",1,,25,9,37,26,2014.05.10,ZMpNkCOMaGU,400438,25611799
+18,2014,Finland,Softengine,1,,,1,,"""Something Better""",English,1,,11,72,37,26,2014.05.10,a-NSVFBKU-4,644007,25611799
+19,2014,Spain,Ruth Lorenzo,,1,,,1,"""Dancing in the Rain""","English,òSpanish",1,,10,74,37,26,2014.05.10,P9R96ZoWJBU,0,25611799
+20,2014,Switzerland,Sebalter,1,,,,1,"""Hunter of Stars""",English,1,,13,64,37,26,2014.05.10,kjWG0oNpWog,566957,25611799
+21,2014,Hungary,Andrˇs Kˇllay-Saunders,1,,,,,"""Running""",English,1,,5,143,37,26,2014.05.10,QzfRDZmuFUI,850121,25611799
+22,2014,Malta,Firelight,1,,,1,,"""Coming Home""",English,1,,23,32,37,26,2014.05.10,Qxi5C-lGX2Y,514692,25611799
+23,2014,Denmark,Basim,1,,,,1,"""Clich? Love Song""",English,1,,9,74,37,26,2014.05.10,fn8DzOcpQas,785092,25611799
+24,2014,Netherlands,The Common Linnets,1,1,1,,1,"""Calm After the Storm""",English,1,,2,238,37,26,2014.05.10,hkrF8uC92O4,1275216,25611799
+25,2014,San Marino,Valentina Monetta,,1,,,1,"""Maybe""",English,1,,24,14,37,26,2014.05.10,vt_3yms1PcM,387459,25611799
+26,2014,United Kingdom,Molly,,1,,,1,"""Children of the Universe""",English,1,,17,40,37,26,2014.05.10,fFqYbibLh8k,1130573,25611799
+1,2015,Moldova,Eduard Romanyuta,1,,,,1,"""I Want Your Love""",English,,,11,41,20,16,2015.05.19,mVN723iwj8c,1113144,22944663
+2,2015,Armenia,Genealogy,1,1,,1,1,"""Face the Shadow""",English,,,7,77,20,16,2015.05.19,VVVvgD0-Mu0,1760433,22944663
+3,2015,Belgium,Lo?c Nottet,1,,,,,"""Rhythm Inside""",English,,,2,149,20,16,2015.05.19,xV2b3L1K6_c,1715515,22944663
+4,2015,Netherlands,Trijntje Oosterhuis,,1,,,1,"""Walk Along""",English,,,14,33,20,16,2015.05.19,eSZwKW3RqT0,945384,22944663
+5,2015,Finland,Pertti Kurikan Nimip?iv?t,1,,,1,1,"""Aina mun pit??""",Finnish,,,16,13,20,16,2015.05.19,OR6BixXmo08,615923,22944663
+6,2015,Greece,Maria Elena Kyriakou,,1,,,,"""One Last Breath""",English,,,6,81,20,16,2015.05.19,v7xKMnNcVdM,669094,22944663
+7,2015,Estonia,Elina Bornò&òStig R?sta,1,1,,,,"""Goodbye to Yesterday""",English,,,3,105,20,16,2015.05.19,xz0PTmUDQMc,961980,22944663
+8,2015,Macedonia,Daniel Kajmakoski,1,,,,,"""Autumn Leaves""",English,,,15,28,20,16,2015.05.19,t8QCt6CJCHc,1115953,22944663
+9,2015,Serbia,Bojana Stamenov,,1,,,,"""Beauty Never Lies""",English,,,9,63,20,16,2015.05.19,6zCz_fJa1yA,736379,22944663
+10,2015,Hungary,Boggie,,1,,,,"""Wars for Nothing""",English,,,8,67,20,16,2015.05.19,Z52QQG1hboo,500793,22944663
+11,2015,Belarus,Uzariò&òMaimuna,1,1,1,,,"""Time""",English,,,12,39,20,16,2015.05.19,M8ZADtaAvDA,1263443,22944663
+12,2015,Russia,Polina Gagarina,,1,,,1,"""A Million Voices""",English,,,1,182,20,16,2015.05.19,jBVY7Glcd84,5421272,22944663
+13,2015,Denmark,Anti Social Media,1,,,1,1,"""The Way You Are""",English,,,13,33,20,16,2015.05.19,g8u3_DsIN2E,401953,22944663
+14,2015,Albania,Elhaida Dani,,1,,,1,"""I'm Alive""",English,,,10,62,20,16,2015.05.19,lZJdWUmxxZw,3563566,22944663
+15,2015,Romania,Voltaj,1,,,1,1,"""De la cap?t""","Romanian, English",,,5,89,20,16,2015.05.19,WA3wOKHpzEU,656568,22944663
+16,2015,Georgia,Nina Sublatti,,1,,,,"""Warrior""",English,,,4,98,20,16,2015.05.19,RZrRQSI_pcQ,1503263,22944663
+1,2015,Lithuania,Monika Linkyt?ò&òVaidas Baumila,1,1,1,,,"""This Time""",English,,,7,67,21,17,2015.05.21,1Cqk5ZdrfSk,676740,17985768
+2,2015,Ireland,Molly Sterling,,1,,,,"""Playing with Numbers""",English,,,12,35,21,17,2015.05.21,NWiEsf65Rxo,235780,17985768
+3,2015,San Marino,Anita Simonciniò&òMichele Perniola,1,1,1,,,"""Chain of Lights""",English,,,16,11,21,17,2015.05.21,l5of_gx0kjA,484306,17985768
+4,2015,Montenegro,Knez,1,,,,1,"""Adio""",Montenegrin,,,9,57,21,17,2015.05.21,4giAO-2aICo,1187151,17985768
+5,2015,Malta,Amber,,1,,,,"""Warrior""",English,,,11,43,21,17,2015.05.21,wevxW3l_tkg,857929,17985768
+6,2015,Norway,M?rlandò&òDebrah Scarlett,1,1,1,,,"""A Monster Like Me""",English,,,4,123,21,17,2015.05.21,U1td70yaoS8,1082665,17985768
+7,2015,Portugal,Leonor Andrade,,1,,,,"""Hˇ um mar que nos separa""",Portuguese,,,14,19,21,17,2015.05.21,xowMYNzYWbE,425317,17985768
+8,2015,Czech Republic,Marta Jandovˇò&òVˇclav Noid Bˇrta,1,1,1,,1,"""Hope Never Dies""",English,,,13,33,21,17,2015.05.21,P_o44RdxYTY,703961,17985768
+9,2015,Israel,Nadav Guedj,1,,,,,"""Golden Boy""",English,,,3,151,21,17,2015.05.21,NdxOCTezeTg,1447272,17985768
+10,2015,Latvia,Aminata,,1,,,,"""Love Injected""",English,,,2,155,21,17,2015.05.21,fnVbR98J7Q4,590826,17985768
+11,2015,Azerbaijan,Elnur Huseynov,1,,,,1,"""Hour of the Wolf""",English,,,10,53,21,17,2015.05.21,kYsj1fFE1Xw,5574686,17985768
+12,2015,Iceland,Maria Olafs,,1,,,,"""Unbroken""",English,,,15,14,21,17,2015.05.21,sov_pE1cdFY,1192103,17985768
+13,2015,Sweden,M?ns Zelmerl?w,1,,,,1,"""Heroes""",English,,,1,217,21,17,2015.05.21,AoO1V_eOEPA,1298241,17985768
+14,2015,Switzerland,M?lanie Ren?,,1,,,,"""Time to Shine""",English,,,17,4,21,17,2015.05.21,_n_pXW3p74Q,616262,17985768
+15,2015,Cyprus,John Karayiannis,1,,,,,"""One Thing I Should Have Done""",English,,,6,87,21,17,2015.05.21,tXU2Hehc4wY,393258,17985768
+16,2015,Slovenia,Maraaya,1,1,1,,,"""Here for You""",English,,,5,92,21,17,2015.05.21,-5JIY7qgzgU,779854,17985768
+17,2015,Poland,Monika Kuszy?ska,,1,,,1,"""In the Name of Love""",English,,,8,57,21,17,2015.05.21,4fjWLzeQ9K8,439417,17985768
+1,2015,Slovenia,Maraaya,1,1,1,,,"""Here for You""",English,1,,14,39,40,27,2015.05.23,,888487,56572947
+2,2015,France,Lisa Angell,,1,,,1,"""N'oubliez pas""",French,1,,25,4,40,27,2015.05.23,kG_WJU2s5ho,979372,56572947
+3,2015,Israel,Nadav Guedj,1,,,,,"""Golden Boy""",English,1,,9,97,40,27,2015.05.23,,1982984,56572947
+4,2015,Estonia,Elina Bornò&òStig R?sta,1,1,,,,"""Goodbye to Yesterday""",English,1,,7,106,40,27,2015.05.23,,1236034,56572947
+5,2015,United Kingdom,Electro Velvet,1,1,1,,,"""Still in Love with You""",English,1,,24,5,40,27,2015.05.23,s6r1tUhl1cQ,2800078,56572947
+6,2015,Armenia,Genealogy,1,1,,1,1,"""Face the Shadow""",English,1,,16,34,40,27,2015.05.23,,2129447,56572947
+7,2015,Lithuania,Monika Linkyt?ò&òVaidas Baumila,1,1,1,,,"""This Time""",English,1,,18,30,40,27,2015.05.23,,860398,56572947
+8,2015,Serbia,Bojana Stamenov,,1,,,,"""Beauty Never Lies""",English,1,,10,53,40,27,2015.05.23,,1065006,56572947
+9,2015,Norway,M?rlandò&òDebrah Scarlett,1,1,1,,,"""A Monster Like Me""",English,1,,8,102,40,27,2015.05.23,,1365120,56572947
+10,2015,Sweden,M?ns Zelmerl?w,1,,,,1,"""Heroes""",English,1,,1,365,40,27,2015.05.23,,2380236,56572947
+11,2015,Cyprus,John Karayiannis,1,,,,,"""One Thing I Should Have Done""",English,1,,22,11,40,27,2015.05.23,,513667,56572947
+12,2015,Australia,Guy Sebastian,1,,,,1,"""Tonight Again""",English,1,,5,196,40,27,2015.05.23,i7MwzRBEY_M,3076017,56572947
+13,2015,Belgium,Lo?c Nottet,1,,,,,"""Rhythm Inside""",English,1,,4,217,40,27,2015.05.23,,3292023,56572947
+14,2015,Austria,The Makemakes,1,,,1,,"""I Am Yours""",English,1,,26,0,40,27,2015.05.23,duW-PsDbysg,1183528,56572947
+15,2015,Greece,Maria Elena Kyriakou,,1,,,,"""One Last Breath""",English,1,,19,23,40,27,2015.05.23,,1000274,56572947
+16,2015,Montenegro,Knez,1,,,,1,"""Adio""",Montenegrin,1,,13,44,40,27,2015.05.23,,1506192,56572947
+17,2015,Germany,Ann Sophie,,1,,,,"""Black Smoke""",English,1,,27,0,40,27,2015.05.23,W7u4RwkNAY0,1484167,56572947
+18,2015,Poland,Monika Kuszy?ska,,1,,,1,"""In the Name of Love""",English,1,,23,10,40,27,2015.05.23,,557428,56572947
+19,2015,Latvia,Aminata,,1,,,,"""Love Injected""",English,1,,6,186,40,27,2015.05.23,,885308,56572947
+20,2015,Romania,Voltaj,1,,,1,1,"""De la capat""","Romanian, English",1,,15,35,40,27,2015.05.23,,1022314,56572947
+21,2015,Spain,Edurne,,1,,,1,"""Amanecer""",Spanish,1,,21,15,40,27,2015.05.23,9-g92hNNbPQ,2400157,56572947
+22,2015,Hungary,Boggie,,1,,,,"""Wars for Nothing""",English,1,,20,19,40,27,2015.05.23,,784627,56572947
+23,2015,Georgia,Nina Sublatti,,1,,,,"""Warrior""",English,1,,11,51,40,27,2015.05.23,,2067422,56572947
+24,2015,Azerbaijan,Elnur Huseynov,1,,,,1,"""Hour of the Wolf""",English,1,,12,49,40,27,2015.05.23,,6170265,56572947
+25,2015,Russia,Polina Gagarina,,1,,,1,"""A Million Voices""",English,1,,2,303,40,27,2015.05.23,,7910110,56572947
+26,2015,Albania,Elhaida Dani,,1,,,1,"""I'm Alive""",English,1,,17,34,40,27,2015.05.23,,4578396,56572947
+27,2015,Italy,Il Volo,1,,,1,1,"""Grande amore""",Italian,1,,3,292,40,27,2015.05.23,4TEpHTVWXnM,2453890,56572947
